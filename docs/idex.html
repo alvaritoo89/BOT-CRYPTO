@@ -1,0 +1,133 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Crypto Daily</title>
+<style>
+  :root {
+    --bg: #0b0e14; --card: #131822; --line: #232b3a; --text: #e6eaf2; --muted: #8b95a8;
+    --up: #2ecc71; --down: #ff5c5c; --accent: #5b9dff;
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--text);
+         font: 16px/1.5 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
+  .wrap { max-width: 1100px; margin: 0 auto; padding: 24px 16px 48px; }
+  header { display: flex; justify-content: space-between; align-items: baseline; flex-wrap: wrap; gap: 8px; }
+  h1 { margin: 0; font-size: 1.6rem; letter-spacing: -0.02em; }
+  .upd { color: var(--muted); font-size: .85rem; }
+  .grid { display: grid; gap: 16px; margin-top: 24px; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); }
+  .card { background: var(--card); border: 1px solid var(--line); border-radius: 14px; padding: 18px; }
+  .top { display: flex; justify-content: space-between; align-items: center; }
+  .sym { font-weight: 700; font-size: 1.1rem; }
+  .name { color: var(--muted); font-size: .85rem; }
+  .price { font-size: 1.7rem; font-weight: 700; margin: 10px 0 2px; font-variant-numeric: tabular-nums; }
+  .eur { color: var(--muted); font-size: .9rem; }
+  .chg { font-weight: 600; font-size: .9rem; }
+  .up { color: var(--up); } .down { color: var(--down); }
+  ul { list-style: none; padding: 0; margin: 14px 0 0; border-top: 1px solid var(--line); }
+  li { padding: 10px 0; border-bottom: 1px solid var(--line); }
+  li:last-child { border-bottom: 0; }
+  a { color: var(--text); text-decoration: none; }
+  a:hover { color: var(--accent); }
+  .src { display: block; color: var(--muted); font-size: .75rem; margin-top: 2px; }
+  .empty { color: var(--muted); font-size: .9rem; padding: 10px 0; }
+  footer { margin-top: 28px; color: var(--muted); font-size: .8rem; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>Crypto Daily</h1>
+    <span class="upd" id="upd">Cargando…</span>
+  </header>
+  <div class="grid" id="grid"></div>
+  <footer>Las noticias se actualizan una vez al día. Los precios se refrescan cada minuto (CoinGecko). No es consejo financiero.</footer>
+</div>
+
+<script>
+const COINS = [
+  { sym: "BTC", name: "Bitcoin",  gecko: "bitcoin" },
+  { sym: "ETH", name: "Ethereum", gecko: "ethereum" },
+  { sym: "XRP", name: "XRP",      gecko: "ripple" },
+];
+
+let data = { prices: {}, news: {}, updated: null };
+
+const money = (n, cur) => n == null ? "n/d" :
+  new Intl.NumberFormat("es-ES", { style: "currency", currency: cur,
+    maximumFractionDigits: n >= 100 ? 0 : 4 }).format(n);
+
+function el(tag, cls, text) {
+  const e = document.createElement(tag);
+  if (cls) e.className = cls;
+  if (text != null) e.textContent = text;
+  return e;
+}
+
+function render() {
+  const grid = document.getElementById("grid");
+  grid.replaceChildren();
+  for (const c of COINS) {
+    const p = data.prices[c.sym] || {};
+    const card = el("div", "card");
+
+    const top = el("div", "top");
+    const left = el("div");
+    left.append(el("div", "sym", c.sym), el("div", "name", c.name));
+    const ch = p.change24h;
+    const chEl = el("div", "chg " + (ch >= 0 ? "up" : "down"),
+      ch == null ? "" : (ch >= 0 ? "▲ " : "▼ ") + Math.abs(ch).toFixed(2) + "% 24h");
+    top.append(left, chEl);
+
+    card.append(top,
+      el("div", "price", money(p.usd, "USD")),
+      el("div", "eur", money(p.eur, "EUR")));
+
+    const ul = el("ul");
+    const items = (data.news[c.sym] || []);
+    if (!items.length) ul.append(el("div", "empty", "Sin noticias relevantes en las últimas 24h"));
+    for (const n of items) {
+      const li = el("li");
+      const a = el("a", null, n.title);
+      a.href = n.link; a.target = "_blank"; a.rel = "noopener noreferrer";
+      li.append(a);
+      if (n.source) li.append(el("span", "src", n.source));
+      ul.append(li);
+    }
+    card.append(ul);
+    grid.append(card);
+  }
+  if (data.updated) {
+    document.getElementById("upd").textContent =
+      "Noticias de " + new Date(data.updated).toLocaleString("es-ES", { dateStyle: "medium", timeStyle: "short" });
+  }
+}
+
+async function loadData() {
+  try {
+    const r = await fetch("data.json", { cache: "no-store" });
+    if (r.ok) data = await r.json();
+  } catch (e) { /* sin data.json todavía */ }
+  render();
+}
+
+async function livePrices() {
+  try {
+    const ids = COINS.map(c => c.gecko).join(",");
+    const r = await fetch(`https://api.coingecko.com/api/v3/simple/price?ids=${ids}&vs_currencies=usd,eur&include_24hr_change=true`);
+    if (!r.ok) return;
+    const j = await r.json();
+    for (const c of COINS) {
+      const d = j[c.gecko];
+      if (d) data.prices[c.sym] = { usd: d.usd, eur: d.eur, change24h: d.usd_24h_change };
+    }
+    render();
+  } catch (e) { /* se queda el precio de data.json */ }
+}
+
+loadData().then(livePrices);
+setInterval(livePrices, 60000);
+</script>
+</body>
+</html>

@@ -1,55 +1,87 @@
-Crypto Daily
+# 🚀 Crypto Daily
 
-Resumen diario del mercado crypto: las noticias más relevantes de Bitcoin (BTC), Ethereum (ETH) y XRP, junto con el precio de cada una.
+> 📊 **Tu resumen diario del mercado crypto, en un solo lugar.**
 
-Qué ofrece
+Consulta las noticias más relevantes de **Bitcoin (BTC), Ethereum (ETH) y XRP**, junto con sus precios y variaciones del mercado.
 
-3 noticias al día por moneda, elegidas entre varias fuentes especializadas, sin duplicados y de las últimas 24 horas.
+---
 
-Precio en dólares y euros y variación de las últimas 24 horas.
+## ✨ ¿Qué ofrece?
 
-Aviso diario por Telegram con todo el resumen en un único mensaje.
+- 📰 **3 noticias al día por moneda**, seleccionadas entre varias fuentes especializadas, sin duplicados y publicadas durante las últimas 24 horas.
+- 💰 **Precios en dólares y euros**, con la variación de las últimas 24 horas.
+- 📲 **Resumen diario por Telegram**, con toda la información en un único mensaje.
+- 🌐 **Versión web** con las mismas noticias y precios actualizados en directo.
 
-Versión web con las mismas noticias y los precios actualizándose en directo.
+## 🧠 ¿Cómo selecciona las noticias?
 
-Cómo elige las noticias
+Cada noticia recibe una puntuación según la relevancia de la moneda en el título o en el texto, así como la importancia del tema tratado.
 
-Cada noticia recibe una puntuación según si la moneda aparece en el título o en el texto, y según si trata temas de peso en el mercado (regulación, ETFs, grandes movimientos, seguridad, actualizaciones de red). Se muestran las mejor puntuadas.
+Se priorizan asuntos como:
 
-Fuentes
+- 🏛️ Regulación y decisiones institucionales.
+- 📈 ETFs y movimientos relevantes del mercado.
+- 🔐 Seguridad y posibles vulnerabilidades.
+- ⚙️ Actualizaciones y avances de las redes blockchain.
 
-Noticias: CoinDesk, Cointelegraph, Decrypt, CryptoSlate y Bitcoin Magazine.
+Finalmente, se muestran las noticias mejor puntuadas para cada criptomoneda.
 
-Precios: CoinGecko.
+## 🔎 Fuentes de información
 
-Aviso
+**📰 Noticias**
+- [CoinDesk](https://www.coindesk.com/)
+- [Cointelegraph](https://cointelegraph.com/)
+- [Decrypt](https://decrypt.co/)
+- [CryptoSlate](https://cryptoslate.com/)
+- [Bitcoin Magazine](https://bitcoinmagazine.com/)
 
-Proyecto informativo. Nada de lo que aparece aquí es consejo financiero ni una recomendación de inversión. Los precios y las noticias pueden contener errores, retrasos o información incompleta. Comprueba siempre los datos en sus fuentes originales antes de tomar decisiones.
+**💹 Datos de precios**
+- [CoinGecko](https://www.coingecko.com/)
 
-Uso responsable
+---
 
-Crypto Daily está diseñado para consultar información pública sobre el mercado de criptomonedas y facilitar su difusión informativa.
+## ⚠️ Aviso importante
 
-No debe utilizarse para:
+Crypto Daily es un **proyecto exclusivamente informativo y educativo**.
 
-Estafar, suplantar identidades o engañar a otras personas.
+- ❌ La información publicada no constituye asesoramiento financiero ni recomendaciones de inversión.
+- 📉 Los precios y las noticias pueden contener errores, retrasos o información incompleta.
+- 🔍 Comprueba siempre los datos en sus fuentes originales antes de tomar decisiones financieras.
 
-Difundir deliberadamente información falsa o manipulada.
+**Invierte con responsabilidad y haz siempre tu propia investigación.**
 
-Realizar spam, acoso o envíos masivos no autorizados.
+## 🛡️ Uso responsable
 
-Promover actividades ilegales o vulnerar los derechos de terceros.
+Crypto Daily está diseñado para consultar información pública sobre criptomonedas y facilitar su difusión con fines informativos.
 
-Utiliza el proyecto de forma responsable y respeta las condiciones de las plataformas, las fuentes de información y los servicios que integra.
+Se espera que cualquier uso del proyecto sea responsable y respete las normas aplicables.
 
-Autoría y derechos de uso
+🚫 **No utilices el proyecto para:**
+- Estafar, suplantar identidades o engañar a otras personas.
+- Difundir deliberadamente noticias falsas o información manipulada.
+- Realizar spam, acoso o envíos masivos no autorizados.
+- Promover actividades ilegales o vulnerar los derechos de terceros.
 
-Este proyecto es una creación de alvaritoo_89.
+🤝 Respeta las condiciones de uso de las plataformas, las fuentes de información y los servicios integrados.
 
-El código está protegido por los derechos de autor. Su publicación en GitHub permite consultar el repositorio, pero no implica por sí sola autorización para copiarlo, modificarlo, redistribuirlo o utilizarlo en otros proyectos.
+## ©️ Autoría y derechos de uso
 
-Para solicitar permiso para otros usos, contacta con el autor.
+Desarrollado por **alvaritoo_89** ❤️‍💻
 
-Contribuciones y contacto
+El código de este proyecto está protegido por los derechos de autor. Que el repositorio sea público permite consultar su contenido, pero **no concede automáticamente permiso para copiarlo, modificarlo, redistribuirlo o incorporarlo a otros proyectos**.
 
-Si encuentras errores o tienes sugerencias para mejorar Crypto Daily, puedes abrir una incidencia (Issue) en este repositorio.
+📩 Para solicitar autorización para otros usos del código, contacta con el autor.
+
+## 💡 ¿Has encontrado un error o tienes una sugerencia?
+
+Si quieres comunicar un error o proponer una mejora, puedes abrir una [*Issue*](../../issues) en este repositorio.
+
+---
+
+<div align="center">
+
+**₿ Crypto Daily — Mantente informado. Investiga. Decide con criterio.**
+
+*Desarrollado con ❤️ por alvaritoo_89*
+
+</div>

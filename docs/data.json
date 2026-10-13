@@ -1,0 +1,82 @@
+{
+  "updated": "2026-10-13T14:29:50.527983+00:00",
+  "prices": {
+    "BTC": {
+      "usd": 83617,
+      "eur": 74709,
+      "change24h": 0.867252049864126
+    },
+    "ETH": {
+      "usd": 2519.72,
+      "eur": 2251.28,
+      "change24h": -0.42733076034582346
+    },
+    "XRP": {
+      "usd": 1.38,
+      "eur": 1.23,
+      "change24h": -0.6958766157393029
+    }
+  },
+  "news": {
+    "BTC": [
+      {
+        "title": "UK court ruling boosts government’s chances of keeping $5 billion in seized bitcoin",
+        "link": "https://www.coindesk.com/policy/2026/10/13/u-k-court-ruling-boosts-government-s-chances-of-keeping-gbp3-8-billion-seized-bitcoin",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "date": "2026-10-13T09:25:03+00:00"
+      },
+      {
+        "title": "Bitcoin’s quantum-safe protection gets 82% cheaper as researchers race to secure 6 million exposed BTC",
+        "link": "https://cryptoslate.com/bitcoins-quantum-safe-protection-gets-82-cheaper-as-researchers-race-to-secure-6-million-exposed-btc/",
+        "source": "CryptoSlate",
+        "date": "2026-10-13T14:20:26+00:00"
+      },
+      {
+        "title": "UK Moves Closer to Keeping $5B Bitcoin Haul After High Court Ruling",
+        "link": "https://decrypt.co/380818/uk-moves-closer-to-keeping-5b-bitcoin-haul-after-high-court-ruling",
+        "source": "Decrypt",
+        "date": "2026-10-13T10:51:33+00:00"
+      }
+    ],
+    "ETH": [
+      {
+        "title": "ENS seeks DAO approval to activate upgraded Ethereum naming system",
+        "link": "https://cointelegraph.com/news/ens-dao-ensv2-upgrade-eth-domain-registrations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "date": "2026-10-13T11:11:27+00:00"
+      },
+      {
+        "title": "Bitcoin, ether slip and rebound as South Korean stocks slide on AI-related concerns",
+        "link": "https://www.coindesk.com/markets/2026/10/13/bitcoin-ether-slip-and-rebound-as-south-korean-stocks-slide-on-ai-related-concerns",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "date": "2026-10-13T11:06:39+00:00"
+      },
+      {
+        "title": "Once-largest Ethereum NFT marketplace Blur is shutting down after volumes collapse 99%",
+        "link": "https://www.coindesk.com/tech/2026/10/13/once-largest-ethereum-nft-marketplace-blur-is-shutting-down-after-volumes-collapse-99",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "date": "2026-10-13T04:43:18+00:00"
+      }
+    ],
+    "XRP": [
+      {
+        "title": "Ripple-Backed Evernorth Hits Nasdaq Holding 473 Million XRP Worth Far Less Than It Paid",
+        "link": "https://decrypt.co/380728/ripple-backed-evernorth-hits-nasdaq-holding-473-million-xrp",
+        "source": "Decrypt",
+        "date": "2026-10-12T18:09:15+00:00"
+      },
+      {
+        "title": "Standard Chartered brings Ripple’s RLUSD into banking custody after $765 million quarterly surge",
+        "link": "https://cryptoslate.com/standard-chartered-brings-ripples-rlusd-into-banking-custody-after-765-million-quarterly-surge/",
+        "source": "CryptoSlate",
+        "date": "2026-10-12T19:30:19+00:00"
+      },
+      {
+        "title": "Tokenized SanDisk bets saw more liquidations than XRP as Asia’s chip rout wipes out $800 million",
+        "link": "https://www.coindesk.com/markets/2026/10/13/tokenized-sandisk-bets-saw-more-liquidations-than-xrp-as-asia-s-chip-rout-wipes-out-usd800-million",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "date": "2026-10-13T05:27:17+00:00"
+      }
+    ]
+  }
+}

@@ -1,69 +1,81 @@
 {
-  "updated": "2026-10-14T12:36:42.708411+00:00",
+  "updated": "2026-10-15T12:23:55.625756+00:00",
   "prices": {
     "BTC": {
-      "usd": 82797,
-      "eur": 74250,
-      "change24h": -0.6258292701737034
+      "usd": 80937,
+      "eur": 72221,
+      "change24h": -3.2258372249538954
     },
     "ETH": {
-      "usd": 2482.96,
-      "eur": 2217.47,
-      "change24h": -0.7587714729813299
+      "usd": 2364.02,
+      "eur": 2109.42,
+      "change24h": -5.7956720524177054
     },
     "XRP": {
-      "usd": 1.36,
-      "eur": 1.22,
-      "change24h": -0.040090115313033706
+      "usd": 1.31,
+      "eur": 1.17,
+      "change24h": -5.013433618269397
     }
   },
   "news": {
     "BTC": [
       {
-        "title": "Bitcoin Whale That Sat Through Every Crash Since 2020 Just Moved $377M",
-        "link": "https://decrypt.co/380867/bitcoin-whale-every-crash-2020-moves-377m",
-        "source": "Decrypt",
-        "date": "2026-10-13T19:38:12+00:00"
+        "title": "Live updates: Bitcoin trades near $81,000 as South Korea's chip-heavy Kospi continues to plunge",
+        "link": "https://www.coindesk.com/business/2026/10/15/live-updates-bitcoin-back-under-usd81-000-as-ai-selloff-worsens",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "date": "2026-10-15T10:16:15+00:00"
       },
       {
-        "title": "Strive Buys More Bitcoin, Crosses 30,000 BTC Mark",
-        "link": "https://bitcoinmagazine.com/news/strive-buys-more-bitcoin-to-hit-30000-btc",
-        "source": "Bitcoin Magazine",
-        "date": "2026-10-13T15:48:14+00:00"
+        "title": "Nearly $1 billion in crypto bets liquidated as bitcoin, ether and XRP slide",
+        "link": "https://www.coindesk.com/markets/2026/10/15/nearly-usd1-billion-in-crypto-bets-liquidated-as-bitcoin-ether-and-xrp-slide",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "date": "2026-10-15T04:25:15+00:00"
       },
       {
-        "title": "Strive bought $280 million in Bitcoin, but Bitcoin per common share rose just 1.72%",
-        "link": "https://cryptoslate.com/strives-bitcoin-buying-diverges-from-strategys-preferred-buyback-focus/",
-        "source": "CryptoSlate",
-        "date": "2026-10-14T11:10:07+00:00"
+        "title": "Bitcoin wilts as Fed rate uncertainty weighs. Kospi plunges 8%",
+        "link": "https://www.coindesk.com/markets/2026/10/15/bitcoin-is-back-below-usd81-000-as-fed-rate-uncertainty-weighs",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "date": "2026-10-15T03:57:45+00:00"
       }
     ],
     "ETH": [
       {
-        "title": "Interactive Brokers moves into Ethereum’s $110 billion staking market as institutional demand accelerates",
-        "link": "https://cryptoslate.com/interactive-brokers-moves-into-ethereums-110-billion-staking-market-as-institutional-demand-accelerates/",
-        "source": "CryptoSlate",
-        "date": "2026-10-14T09:10:03+00:00"
-      },
-      {
-        "title": "Standard Chartered expands Bitcoin and Ether trading to professional investors in UAE",
-        "link": "https://cointelegraph.com/news/standard-chartered-bitcoin-ether-trading-professional-investors-uae?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "date": "2026-10-14T10:07:03+00:00"
-      },
-      {
-        "title": "Standard Chartered unlocks direct bitcoin and ether trading for affluent UAE clients",
-        "link": "https://www.coindesk.com/business/2026/10/14/standard-chartered-unlocks-direct-bitcoin-and-ether-trading-for-affluent-uae-clients",
+        "title": "Nearly $1 billion in crypto bets liquidated as bitcoin, ether and XRP slide",
+        "link": "https://www.coindesk.com/markets/2026/10/15/nearly-usd1-billion-in-crypto-bets-liquidated-as-bitcoin-ether-and-xrp-slide",
         "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "date": "2026-10-14T08:10:07+00:00"
+        "date": "2026-10-15T04:25:15+00:00"
+      },
+      {
+        "title": "VanEck seeks to withdraw application for Lido staked Ether ETF",
+        "link": "https://cointelegraph.com/news/vaneck-seeks-to-withdraw-application-for-lido-staked-ether-etf?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "date": "2026-10-15T01:21:52+00:00"
+      },
+      {
+        "title": "Standard Chartered Opens Bitcoin and Ethereum Trading to Wealthy UAE Clients",
+        "link": "https://decrypt.co/380967/standard-chartered-bitcoin-ethereum-trading",
+        "source": "Decrypt",
+        "date": "2026-10-14T17:46:05+00:00"
       }
     ],
     "XRP": [
       {
-        "title": "Ripple adds Stripe-owned wallets to XRP Ledger as AI payments pass 14 million",
-        "link": "https://www.coindesk.com/tech/2026/10/14/ripple-adds-stripe-owned-wallets-to-xrp-ledger-as-ai-payments-pass-14-million",
+        "title": "Nearly $1 billion in crypto bets liquidated as bitcoin, ether and XRP slide",
+        "link": "https://www.coindesk.com/markets/2026/10/15/nearly-usd1-billion-in-crypto-bets-liquidated-as-bitcoin-ether-and-xrp-slide",
         "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "date": "2026-10-14T05:24:12+00:00"
+        "date": "2026-10-15T04:25:15+00:00"
+      },
+      {
+        "title": "Bitcoin ETFs shed $261M as XRP funds buck weekly outflow trend",
+        "link": "https://cointelegraph.com/markets/bitcoin-etf-outflow-btc-below-82k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "date": "2026-10-15T07:23:43+00:00"
+      },
+      {
+        "title": "Firelight forces XRP-linked tokens lockup as withdrawal delay queue grows",
+        "link": "https://cryptoslate.com/firelight-forces-xrp-linked-tokens-lockup-as-withdrawal-delay-queue-grows/",
+        "source": "CryptoSlate",
+        "date": "2026-10-15T01:30:51+00:00"
       }
     ]
   }

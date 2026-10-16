@@ -1,81 +1,81 @@
 {
-  "updated": "2026-10-15T12:23:55.625756+00:00",
+  "updated": "2026-10-16T12:03:28.443786+00:00",
   "prices": {
     "BTC": {
-      "usd": 80937,
-      "eur": 72221,
-      "change24h": -3.2258372249538954
+      "usd": 82518,
+      "eur": 73302,
+      "change24h": 2.095126214925389
     },
     "ETH": {
-      "usd": 2364.02,
-      "eur": 2109.42,
-      "change24h": -5.7956720524177054
+      "usd": 2474.28,
+      "eur": 2197.92,
+      "change24h": 4.879160537968388
     },
     "XRP": {
-      "usd": 1.31,
-      "eur": 1.17,
-      "change24h": -5.013433618269397
+      "usd": 1.35,
+      "eur": 1.19,
+      "change24h": 3.1521960329194116
     }
   },
   "news": {
     "BTC": [
       {
-        "title": "Live updates: Bitcoin trades near $81,000 as South Korea's chip-heavy Kospi continues to plunge",
-        "link": "https://www.coindesk.com/business/2026/10/15/live-updates-bitcoin-back-under-usd81-000-as-ai-selloff-worsens",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "date": "2026-10-15T10:16:15+00:00"
+        "title": "Bitcoin may seek 20-month trend line reclaim before new record highs: CryptoQuant",
+        "link": "https://cointelegraph.com/markets/bitcoin-seeks-20-month-trend-line-reclaim-before-new-record-highs-cryptoquant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "date": "2026-10-16T09:22:13+00:00"
       },
       {
-        "title": "Nearly $1 billion in crypto bets liquidated as bitcoin, ether and XRP slide",
-        "link": "https://www.coindesk.com/markets/2026/10/15/nearly-usd1-billion-in-crypto-bets-liquidated-as-bitcoin-ether-and-xrp-slide",
+        "title": "Quantum Alliance forms amid warnings 6.4 million bitcoin face future quantum threat",
+        "link": "https://www.coindesk.com/tech/2026/10/16/experts-agree-quantum-computers-could-put-satoshi-s-bitcoin-at-risk-but-not-on-what-s-next",
         "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "date": "2026-10-15T04:25:15+00:00"
+        "date": "2026-10-16T10:52:26+00:00"
       },
       {
-        "title": "Bitcoin wilts as Fed rate uncertainty weighs. Kospi plunges 8%",
-        "link": "https://www.coindesk.com/markets/2026/10/15/bitcoin-is-back-below-usd81-000-as-fed-rate-uncertainty-weighs",
+        "title": "Scammer gets scammed in Ledger spy-chip exploit, loses almost $5 million in bitcoin",
+        "link": "https://www.coindesk.com/business/2026/10/16/scammer-gets-scammed-in-ledger-spy-chip-exploit-loses-almost-usd5-million-in-bitcoin",
         "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "date": "2026-10-15T03:57:45+00:00"
+        "date": "2026-10-16T10:24:30+00:00"
       }
     ],
     "ETH": [
       {
-        "title": "Nearly $1 billion in crypto bets liquidated as bitcoin, ether and XRP slide",
-        "link": "https://www.coindesk.com/markets/2026/10/15/nearly-usd1-billion-in-crypto-bets-liquidated-as-bitcoin-ether-and-xrp-slide",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "date": "2026-10-15T04:25:15+00:00"
-      },
-      {
-        "title": "VanEck seeks to withdraw application for Lido staked Ether ETF",
-        "link": "https://cointelegraph.com/news/vaneck-seeks-to-withdraw-application-for-lido-staked-ether-etf?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "date": "2026-10-15T01:21:52+00:00"
-      },
-      {
-        "title": "Standard Chartered Opens Bitcoin and Ethereum Trading to Wealthy UAE Clients",
-        "link": "https://decrypt.co/380967/standard-chartered-bitcoin-ethereum-trading",
+        "title": "OpenAI Model Used Testnet Ethereum Wallet Without Permission to Finish Coding Task",
+        "link": "https://decrypt.co/381123/openai-model-used-testnet-ethereum-wallet-without-permission-to-finish-coding-task",
         "source": "Decrypt",
-        "date": "2026-10-14T17:46:05+00:00"
+        "date": "2026-10-16T10:39:08+00:00"
+      },
+      {
+        "title": "Ethereum, Altcoins See 'Outsized Drawdowns' Due to Macro Pressures",
+        "link": "https://decrypt.co/381034/ethereum-altcoins-see-outsized-drawdowns-due-to-macro-pressures",
+        "source": "Decrypt",
+        "date": "2026-10-15T14:27:18+00:00"
+      },
+      {
+        "title": "XRP has failed to make holders rich like bitcoin and ether. Here’s why",
+        "link": "https://www.coindesk.com/markets/2026/10/16/xrp-has-failed-to-make-holders-rich-like-bitcoin-and-ether-here-s-why",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "date": "2026-10-16T05:53:58+00:00"
       }
     ],
     "XRP": [
       {
-        "title": "Nearly $1 billion in crypto bets liquidated as bitcoin, ether and XRP slide",
-        "link": "https://www.coindesk.com/markets/2026/10/15/nearly-usd1-billion-in-crypto-bets-liquidated-as-bitcoin-ether-and-xrp-slide",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "date": "2026-10-15T04:25:15+00:00"
-      },
-      {
-        "title": "Bitcoin ETFs shed $261M as XRP funds buck weekly outflow trend",
-        "link": "https://cointelegraph.com/markets/bitcoin-etf-outflow-btc-below-82k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "date": "2026-10-15T07:23:43+00:00"
-      },
-      {
-        "title": "Firelight forces XRP-linked tokens lockup as withdrawal delay queue grows",
-        "link": "https://cryptoslate.com/firelight-forces-xrp-linked-tokens-lockup-as-withdrawal-delay-queue-grows/",
+        "title": "Ripple opens Wall Street’s door to Hyperliquid’s $59 billion trading market",
+        "link": "https://cryptoslate.com/ripple-opens-wall-streets-door-to-hyperliquids-59-billion-trading-market/",
         "source": "CryptoSlate",
-        "date": "2026-10-15T01:30:51+00:00"
+        "date": "2026-10-16T11:00:56+00:00"
+      },
+      {
+        "title": "XRP has failed to make holders rich like bitcoin and ether. Here’s why",
+        "link": "https://www.coindesk.com/markets/2026/10/16/xrp-has-failed-to-make-holders-rich-like-bitcoin-and-ether-here-s-why",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "date": "2026-10-16T05:53:58+00:00"
+      },
+      {
+        "title": "Ethereum, Altcoins See 'Outsized Drawdowns' Due to Macro Pressures",
+        "link": "https://decrypt.co/381034/ethereum-altcoins-see-outsized-drawdowns-due-to-macro-pressures",
+        "source": "Decrypt",
+        "date": "2026-10-15T14:27:18+00:00"
       }
     ]
   }

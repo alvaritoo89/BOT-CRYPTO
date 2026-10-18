@@ -1,44 +1,45 @@
 {
-  "updated": "2026-10-17T11:18:58.033649+00:00",
+  "updated": "2026-10-18T11:54:38.643838+00:00",
   "prices": {
     "BTC": {
-      "usd": 81533,
-      "eur": 72567,
-      "change24h": -1.2215482254796466
+      "usd": 81941,
+      "eur": 72931,
+      "change24h": 0.5499806019676993
     },
     "ETH": {
-      "usd": 2435.17,
-      "eur": 2167.39,
-      "change24h": -1.8347618373860415
+      "usd": 2412.91,
+      "eur": 2147.57,
+      "change24h": -0.7548814364668083
     },
     "XRP": {
-      "usd": 1.31,
-      "eur": 1.16,
-      "change24h": -3.0024375831475716
+      "usd": 1.3,
+      "eur": 1.15,
+      "change24h": -0.7098847357165862
     }
   },
   "news": {
     "BTC": [
       {
-        "title": "Bitcoin Treasury Giant Strategy Faces Index Removal Under Finalized MSCI Rules",
-        "link": "https://decrypt.co/381168/bitcoin-treasury-giant-strategy-faces-index-removal-under-finalized-msci-rules",
+        "title": "Crypto Firms Launch Quantum Alliance as 6 Million Bitcoin Sit Exposed",
+        "link": "https://decrypt.co/381236/crypto-firms-launch-quantum-alliance-as-6-million-bitcoin-sit-exposed",
         "source": "Decrypt",
-        "date": "2026-10-16T18:16:04+00:00"
+        "date": "2026-10-17T16:01:03+00:00"
       },
       {
-        "title": "Bitcoin price steadies around $82K after Fed’s Warsh avoids rate-hike hints",
-        "link": "https://cointelegraph.com/markets/bitcoin-price-steadies-82k-fed-warsh-avoids-rate-hike-hints?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "title": "Here’s what happened in crypto today",
+        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "source": "Cointelegraph.com News",
-        "date": "2026-10-16T15:45:43+00:00"
-      },
-      {
-        "title": "The hidden trade behind Strive’s 16.7% Bitcoin income offer",
-        "link": "https://cryptoslate.com/the-hidden-trade-behind-strives-16-7-bitcoin-income-offer/",
-        "source": "CryptoSlate",
-        "date": "2026-10-17T11:00:07+00:00"
+        "date": "2026-10-17T13:29:00+00:00"
       }
     ],
-    "ETH": [],
+    "ETH": [
+      {
+        "title": "Ethereum sets October 26 for Hoodi’s 200 million gas test",
+        "link": "https://cryptoslate.com/ethereum-sets-october-26-scaling-test-with-hoodi-node-upgrades-required/",
+        "source": "CryptoSlate",
+        "date": "2026-10-17T17:00:52+00:00"
+      }
+    ],
     "XRP": []
   }
 }

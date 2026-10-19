@@ -1,45 +1,82 @@
 {
-  "updated": "2026-10-18T11:54:38.643838+00:00",
+  "updated": "2026-10-19T14:16:23.278087+00:00",
   "prices": {
     "BTC": {
-      "usd": 81941,
-      "eur": 72931,
-      "change24h": 0.5499806019676993
+      "usd": 82025,
+      "eur": 73112,
+      "change24h": 1.0711366281928454
     },
     "ETH": {
-      "usd": 2412.91,
-      "eur": 2147.57,
-      "change24h": -0.7548814364668083
+      "usd": 2394.0,
+      "eur": 2133.87,
+      "change24h": 0.44475758264725124
     },
     "XRP": {
       "usd": 1.3,
-      "eur": 1.15,
-      "change24h": -0.7098847357165862
+      "eur": 1.16,
+      "change24h": 1.7370378040708983
     }
   },
   "news": {
     "BTC": [
       {
-        "title": "Crypto Firms Launch Quantum Alliance as 6 Million Bitcoin Sit Exposed",
-        "link": "https://decrypt.co/381236/crypto-firms-launch-quantum-alliance-as-6-million-bitcoin-sit-exposed",
-        "source": "Decrypt",
-        "date": "2026-10-17T16:01:03+00:00"
+        "title": "Bitcoin whale moves $34 million in BTC it got in 2013 when coins traded at $131",
+        "link": "https://www.coindesk.com/markets/2026/10/19/bitcoin-whale-moves-usd34-million-in-btc-it-got-in-2013-when-coins-traded-at-usd131",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "date": "2026-10-19T06:23:16+00:00"
       },
       {
-        "title": "Here’s what happened in crypto today",
-        "link": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "date": "2026-10-17T13:29:00+00:00"
+        "title": "Strategy Buys $22M in Bitcoin, Buys Back $193M of STRC",
+        "link": "https://decrypt.co/381302/strategy-buys-22m-in-bitcoin-buys-back-193m-of-strc",
+        "source": "Decrypt",
+        "date": "2026-10-19T13:04:48+00:00"
+      },
+      {
+        "title": "XRP’s 13-week ETF inflow streak ends as Bitcoin and Ethereum withdrawals continue",
+        "link": "https://cryptoslate.com/xrp-etf-inflow-streak-ends-as-bitcoin-and-ethereum-outflows-continue/",
+        "source": "CryptoSlate",
+        "date": "2026-10-19T10:30:55+00:00"
       }
     ],
     "ETH": [
       {
-        "title": "Ethereum sets October 26 for Hoodi’s 200 million gas test",
-        "link": "https://cryptoslate.com/ethereum-sets-october-26-scaling-test-with-hoodi-node-upgrades-required/",
+        "title": "Bitcoin, Ether ETFs shed $549M as October ETH outflows near $1B",
+        "link": "https://cointelegraph.com/markets/bitcoin-ether-etfs-549-million-weekly-outflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "date": "2026-10-19T07:54:13+00:00"
+      },
+      {
+        "title": "XRP’s 13-week ETF inflow streak ends as Bitcoin and Ethereum withdrawals continue",
+        "link": "https://cryptoslate.com/xrp-etf-inflow-streak-ends-as-bitcoin-and-ethereum-outflows-continue/",
         "source": "CryptoSlate",
-        "date": "2026-10-17T17:00:52+00:00"
+        "date": "2026-10-19T10:30:55+00:00"
+      },
+      {
+        "title": "JPMorgan takes JPM Coin to Ethereum for institutional clients: Report",
+        "link": "https://cointelegraph.com/news/jpmorgan-jpm-coin-ethereum-institutional-clients?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "date": "2026-10-19T08:58:45+00:00"
       }
     ],
-    "XRP": []
+    "XRP": [
+      {
+        "title": "XRP’s 13-week ETF inflow streak ends as Bitcoin and Ethereum withdrawals continue",
+        "link": "https://cryptoslate.com/xrp-etf-inflow-streak-ends-as-bitcoin-and-ethereum-outflows-continue/",
+        "source": "CryptoSlate",
+        "date": "2026-10-19T10:30:55+00:00"
+      },
+      {
+        "title": "XRP holders can now earn fees from Kraken’s DeFi customers, but there is a catch",
+        "link": "https://cryptoslate.com/xrp-holders-can-now-earn-fees-from-krakens-defi-customers-but-there-is-a-catch/",
+        "source": "CryptoSlate",
+        "date": "2026-10-19T11:20:50+00:00"
+      },
+      {
+        "title": "XRP Ledger is set to fix its lending code before anyone can use it",
+        "link": "https://www.coindesk.com/tech/2026/10/19/xrp-ledger-is-set-to-fix-its-lending-code-before-anyone-can-use-it",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "date": "2026-10-19T04:54:31+00:00"
+      }
+    ]
   }
 }

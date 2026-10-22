@@ -1,69 +1,81 @@
 {
-  "updated": "2026-10-21T12:39:55.782548+00:00",
+  "updated": "2026-10-22T12:43:52.848522+00:00",
   "prices": {
     "BTC": {
-      "usd": 83516,
-      "eur": 74380,
-      "change24h": 2.571116765070901
+      "usd": 81680,
+      "eur": 72911,
+      "change24h": -2.1788514842264304
     },
     "ETH": {
-      "usd": 2467.49,
-      "eur": 2197.56,
-      "change24h": 3.2575220146023467
+      "usd": 2400.76,
+      "eur": 2143.0,
+      "change24h": -2.6999529490578382
     },
     "XRP": {
-      "usd": 1.36,
-      "eur": 1.21,
-      "change24h": 4.557972814040211
+      "usd": 1.33,
+      "eur": 1.18,
+      "change24h": -2.2445250825201204
     }
   },
   "news": {
     "BTC": [
       {
-        "title": "Bitcoin ‘top buyers’ halt BTC price upside with $87.7K now key: Glassnode",
-        "link": "https://cointelegraph.com/markets/bitcoin-top-buyers-halt-btc-price-upside-with-877k-now-key-glassnode?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "date": "2026-10-21T10:39:13+00:00"
+        "title": "What Is a Bitcoin-Backed Loan? Borrowing Against BTC Explained",
+        "link": "https://decrypt.co/resources/what-is-a-bitcoin-backed-loan-borrowing-against-btc-explained",
+        "source": "Decrypt",
+        "date": "2026-10-21T15:43:32+00:00"
       },
       {
-        "title": "Switzerland approves landmark Bitcoin ETF after ruling trading volume sufficient",
-        "link": "https://cryptoslate.com/switzerland-approves-landmark-bitcoin-etf-after-ruling-trading-volume-sufficient/",
-        "source": "CryptoSlate",
-        "date": "2026-10-21T04:40:25+00:00"
+        "title": "China seeks to seize 61,800 BTC tied to $5.7 billion fraud scheme",
+        "link": "https://www.coindesk.com/markets/2026/10/22/china-seeks-to-seize-61-800-btc-tied-to-usd5-7-billion-fraud-scheme",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "date": "2026-10-22T06:24:10+00:00"
       },
       {
-        "title": "Swiss Financial Regulator Gives Green Light to Country’s First Bitcoin ETF",
-        "link": "https://bitcoinmagazine.com/news/swiss-regulator-green-lights-bitcoin-etf",
-        "source": "Bitcoin Magazine",
-        "date": "2026-10-20T20:53:32+00:00"
+        "title": "Musk’s SpaceX-Tesla Merger Would Create a Bitcoin Treasury Behemoth",
+        "link": "https://decrypt.co/381538/musk-spacex-tesla-merger-bitcoin-treasury-behemoth",
+        "source": "Decrypt",
+        "date": "2026-10-21T16:16:05+00:00"
       }
     ],
     "ETH": [
       {
-        "title": "Wallet Linked to Drift Exploit Sends $61 Million in Ethereum to Tornado Cash",
-        "link": "https://decrypt.co/381450/wallet-drift-exploit-sends-61-million-ethereum-tornado-cash",
+        "title": "Solana Alpenglow Goes Live in 'Most Ambitious' Upgrade Since Ethereum's Merge",
+        "link": "https://decrypt.co/381484/solana-alpenglow-goes-live-in-most-ambitious-upgrade-since-ethereums-merge",
         "source": "Decrypt",
-        "date": "2026-10-20T20:46:04+00:00"
+        "date": "2026-10-21T14:24:25+00:00"
       },
       {
-        "title": "Ether ETF outflows continue, pass $1B in October so far",
-        "link": "https://cointelegraph.com/markets/ether-etf-outflows-near-1-1-billion-october?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "date": "2026-10-21T08:11:50+00:00"
+        "title": "Ethereum’s four-minute settlement plan could lower the cost of moving crypto",
+        "link": "https://www.coindesk.com/tech/2026/10/22/ethereum-s-four-minute-settlement-plan-could-lower-the-cost-of-moving-crypto",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "date": "2026-10-22T12:14:29+00:00"
       },
       {
-        "title": "Drift exploiter sends $109M in Ether to Tornado Cash in 2 days",
-        "link": "https://cointelegraph.com/news/drift-exploiter-moves-109m-eth-tornado-cash-2-days?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "title": "Starknet voters back research into life beyond Ethereum",
+        "link": "https://cointelegraph.com/news/starknet-vote-post-quantum-l1-research-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "source": "Cointelegraph.com News",
-        "date": "2026-10-21T10:13:52+00:00"
+        "date": "2026-10-22T09:37:54+00:00"
       }
     ],
     "XRP": [
       {
-        "title": "Ripple brings Wall Street into 24/7 stock bets, but HSBC warns markets are still thin",
-        "link": "https://www.coindesk.com/markets/2026/10/21/ripple-brings-wall-street-into-24-7-stock-bets-but-hsbc-warns-markets-are-still-thin",
+        "title": "XRP Ledger bug fix moved to November after validator support dipped for two hours",
+        "link": "https://www.coindesk.com/tech/2026/10/22/xrp-ledger-bug-fix-moved-to-november-after-validator-support-dipped-for-two-hours",
         "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "date": "2026-10-21T05:25:57+00:00"
+        "date": "2026-10-22T04:36:20+00:00"
+      },
+      {
+        "title": "Why earning XRP yield through this wallet could actually cost you money",
+        "link": "https://cryptoslate.com/xaman-xrp-yield-fees/",
+        "source": "CryptoSlate",
+        "date": "2026-10-21T22:00:04+00:00"
+      },
+      {
+        "title": "Bitcoin Hits Weekly High as Crypto Market Rebounds",
+        "link": "https://decrypt.co/381555/bitcoin-price-weekly-high-crypto-rebounds",
+        "source": "Decrypt",
+        "date": "2026-10-21T17:31:03+00:00"
       }
     ]
   }

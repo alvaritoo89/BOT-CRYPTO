@@ -1,81 +1,69 @@
 {
-  "updated": "2026-10-22T12:43:52.848522+00:00",
+  "updated": "2026-10-23T12:21:32.573759+00:00",
   "prices": {
     "BTC": {
-      "usd": 81680,
-      "eur": 72911,
-      "change24h": -2.1788514842264304
+      "usd": 81529,
+      "eur": 72837,
+      "change24h": -0.3217783932211771
     },
     "ETH": {
-      "usd": 2400.76,
-      "eur": 2143.0,
-      "change24h": -2.6999529490578382
+      "usd": 2396.13,
+      "eur": 2140.68,
+      "change24h": -0.27019142803358187
     },
     "XRP": {
-      "usd": 1.33,
+      "usd": 1.32,
       "eur": 1.18,
-      "change24h": -2.2445250825201204
+      "change24h": -0.7174808908521034
     }
   },
   "news": {
     "BTC": [
       {
-        "title": "What Is a Bitcoin-Backed Loan? Borrowing Against BTC Explained",
-        "link": "https://decrypt.co/resources/what-is-a-bitcoin-backed-loan-borrowing-against-btc-explained",
-        "source": "Decrypt",
-        "date": "2026-10-21T15:43:32+00:00"
+        "title": "Bitcoin ETFs sold through 7 of 8 crashes even as Wall Street makes BTC selloffs less violent",
+        "link": "https://cryptoslate.com/bitcoin-etfs-sold-through-7-of-8-crashes-even-as-wall-street-makes-btc-selloffs-less-violent/",
+        "source": "CryptoSlate",
+        "date": "2026-10-22T22:30:38+00:00"
       },
       {
-        "title": "China seeks to seize 61,800 BTC tied to $5.7 billion fraud scheme",
-        "link": "https://www.coindesk.com/markets/2026/10/22/china-seeks-to-seize-61-800-btc-tied-to-usd5-7-billion-fraud-scheme",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "date": "2026-10-22T06:24:10+00:00"
+        "title": "Arkham CEO on $1 Billion of U.S. Government Bitcoin Moved to “Unknown” Wallet",
+        "link": "https://bitcoinmagazine.com/videos/arkham-ceo-on-1-billion-of-u-s-government-bitcoin-moved-to-unknown-wallet",
+        "source": "Bitcoin Magazine",
+        "date": "2026-10-22T13:38:10+00:00"
       },
       {
-        "title": "Musk’s SpaceX-Tesla Merger Would Create a Bitcoin Treasury Behemoth",
-        "link": "https://decrypt.co/381538/musk-spacex-tesla-merger-bitcoin-treasury-behemoth",
-        "source": "Decrypt",
-        "date": "2026-10-21T16:16:05+00:00"
+        "title": "SpaceX-Tesla Merger: Passive Flows ‘Hack’, Could Bring More BTC Exposure to S&P 500",
+        "link": "https://bitcoinmagazine.com/videos/spacex-tesla-merger-passive-flows-hack-could-bring-more-btc-exposure-to-sp-500",
+        "source": "Bitcoin Magazine",
+        "date": "2026-10-22T13:33:24+00:00"
       }
     ],
     "ETH": [
       {
-        "title": "Solana Alpenglow Goes Live in 'Most Ambitious' Upgrade Since Ethereum's Merge",
-        "link": "https://decrypt.co/381484/solana-alpenglow-goes-live-in-most-ambitious-upgrade-since-ethereums-merge",
+        "title": "Ethereum’s long-awaited Glamsterdam upgrade hits another roadblock as 13 security risks emerge",
+        "link": "https://cryptoslate.com/ethereums-long-awaited-glamsterdam-upgrade-hits-another-roadblock-as-13-security-risks-emerge/",
+        "source": "CryptoSlate",
+        "date": "2026-10-23T00:40:37+00:00"
+      },
+      {
+        "title": "Ethereum Delays Glamsterdam Testnet Fork Over Gas Security Flaws",
+        "link": "https://decrypt.co/381681/ethereum-delays-glamsterdam-testnet-fork-over-gas-security-flaws",
         "source": "Decrypt",
-        "date": "2026-10-21T14:24:25+00:00"
+        "date": "2026-10-23T11:49:37+00:00"
       },
       {
-        "title": "Ethereum’s four-minute settlement plan could lower the cost of moving crypto",
-        "link": "https://www.coindesk.com/tech/2026/10/22/ethereum-s-four-minute-settlement-plan-could-lower-the-cost-of-moving-crypto",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "date": "2026-10-22T12:14:29+00:00"
-      },
-      {
-        "title": "Starknet voters back research into life beyond Ethereum",
-        "link": "https://cointelegraph.com/news/starknet-vote-post-quantum-l1-research-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "title": "Ethereum delays Glamsterdam Hoodi testnet launch over security risks",
+        "link": "https://cointelegraph.com/news/ethereum-delays-glamsterdam-testnet-fork-gas-security-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "source": "Cointelegraph.com News",
-        "date": "2026-10-22T09:37:54+00:00"
+        "date": "2026-10-23T05:09:41+00:00"
       }
     ],
     "XRP": [
       {
-        "title": "XRP Ledger bug fix moved to November after validator support dipped for two hours",
-        "link": "https://www.coindesk.com/tech/2026/10/22/xrp-ledger-bug-fix-moved-to-november-after-validator-support-dipped-for-two-hours",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "date": "2026-10-22T04:36:20+00:00"
-      },
-      {
-        "title": "Why earning XRP yield through this wallet could actually cost you money",
-        "link": "https://cryptoslate.com/xaman-xrp-yield-fees/",
+        "title": "XRPL recovers from network slowdown as critical security upgrade faces two-week delay",
+        "link": "https://cryptoslate.com/xrpl-recovers-from-network-slowdown-as-critical-security-upgrade-faces-two-week-delay/",
         "source": "CryptoSlate",
-        "date": "2026-10-21T22:00:04+00:00"
-      },
-      {
-        "title": "Bitcoin Hits Weekly High as Crypto Market Rebounds",
-        "link": "https://decrypt.co/381555/bitcoin-price-weekly-high-crypto-rebounds",
-        "source": "Decrypt",
-        "date": "2026-10-21T17:31:03+00:00"
+        "date": "2026-10-22T23:40:48+00:00"
       }
     ]
   }

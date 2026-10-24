@@ -1,49 +1,49 @@
 {
-  "updated": "2026-10-23T12:21:32.573759+00:00",
+  "updated": "2026-10-24T11:48:25.596900+00:00",
   "prices": {
     "BTC": {
-      "usd": 81529,
-      "eur": 72837,
-      "change24h": -0.3217783932211771
+      "usd": 80540,
+      "eur": 71885,
+      "change24h": -1.3660296638875822
     },
     "ETH": {
-      "usd": 2396.13,
-      "eur": 2140.68,
-      "change24h": -0.27019142803358187
+      "usd": 2363.66,
+      "eur": 2109.66,
+      "change24h": -1.6029779679287026
     },
     "XRP": {
-      "usd": 1.32,
-      "eur": 1.18,
-      "change24h": -0.7174808908521034
+      "usd": 1.28,
+      "eur": 1.14,
+      "change24h": -3.2630088642937287
     }
   },
   "news": {
     "BTC": [
       {
-        "title": "Bitcoin ETFs sold through 7 of 8 crashes even as Wall Street makes BTC selloffs less violent",
-        "link": "https://cryptoslate.com/bitcoin-etfs-sold-through-7-of-8-crashes-even-as-wall-street-makes-btc-selloffs-less-violent/",
+        "title": "Bitcoin ETFs shed $635 million as BTC tests their holdings’ estimated $81,500 cost basis",
+        "link": "https://cryptoslate.com/bitcoin-etf-outflows-holdings-cost-basis/",
         "source": "CryptoSlate",
-        "date": "2026-10-22T22:30:38+00:00"
+        "date": "2026-10-23T18:10:49+00:00"
       },
       {
-        "title": "Arkham CEO on $1 Billion of U.S. Government Bitcoin Moved to “Unknown” Wallet",
-        "link": "https://bitcoinmagazine.com/videos/arkham-ceo-on-1-billion-of-u-s-government-bitcoin-moved-to-unknown-wallet",
-        "source": "Bitcoin Magazine",
-        "date": "2026-10-22T13:38:10+00:00"
+        "title": "Robinhood sees surge in bitcoin, gold prediction markets as traders move beyond sports",
+        "link": "https://www.coindesk.com/markets/2026/10/23/robinhood-sees-surge-in-bitcoin-gold-prediction-markets-as-traders-move-beyond-sports",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "date": "2026-10-23T13:58:56+00:00"
       },
       {
-        "title": "SpaceX-Tesla Merger: Passive Flows ‘Hack’, Could Bring More BTC Exposure to S&P 500",
-        "link": "https://bitcoinmagazine.com/videos/spacex-tesla-merger-passive-flows-hack-could-bring-more-btc-exposure-to-sp-500",
-        "source": "Bitcoin Magazine",
-        "date": "2026-10-22T13:33:24+00:00"
+        "title": "Bitcoin Core Rewrites Its Security Policy for a World Where AI Finds Bugs in One Prompt",
+        "link": "https://decrypt.co/381715/bitcoin-core-security-policy-ai-threats",
+        "source": "Decrypt",
+        "date": "2026-10-23T17:16:03+00:00"
       }
     ],
     "ETH": [
       {
-        "title": "Ethereum’s long-awaited Glamsterdam upgrade hits another roadblock as 13 security risks emerge",
-        "link": "https://cryptoslate.com/ethereums-long-awaited-glamsterdam-upgrade-hits-another-roadblock-as-13-security-risks-emerge/",
+        "title": "Ethereum staking yield is losing to cash rates, so why are investors still lining up?",
+        "link": "https://cryptoslate.com/ethereum-staking-yield-is-losing-to-cash-rates-so-why-are-investors-still-lining-up/",
         "source": "CryptoSlate",
-        "date": "2026-10-23T00:40:37+00:00"
+        "date": "2026-10-24T07:00:27+00:00"
       },
       {
         "title": "Ethereum Delays Glamsterdam Testnet Fork Over Gas Security Flaws",
@@ -52,18 +52,18 @@
         "date": "2026-10-23T11:49:37+00:00"
       },
       {
-        "title": "Ethereum delays Glamsterdam Hoodi testnet launch over security risks",
-        "link": "https://cointelegraph.com/news/ethereum-delays-glamsterdam-testnet-fork-gas-security-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "title": "Initia halts blockchain after exploit reportedly drains over $2.6M",
+        "link": "https://cointelegraph.com/news/initia-halts-blockchain-exploit-drained?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "source": "Cointelegraph.com News",
-        "date": "2026-10-23T05:09:41+00:00"
+        "date": "2026-10-23T18:39:02+00:00"
       }
     ],
     "XRP": [
       {
-        "title": "XRPL recovers from network slowdown as critical security upgrade faces two-week delay",
-        "link": "https://cryptoslate.com/xrpl-recovers-from-network-slowdown-as-critical-security-upgrade-faces-two-week-delay/",
-        "source": "CryptoSlate",
-        "date": "2026-10-22T23:40:48+00:00"
+        "title": "Franklin Templeton adds $150 million in fund shares to XRP Ledger, all in one wallet",
+        "link": "https://www.coindesk.com/markets/2026/10/24/franklin-templeton-adds-usd150-million-in-fund-shares-to-xrp-ledger-all-in-one-wallet",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "date": "2026-10-24T04:45:43+00:00"
       }
     ]
   }

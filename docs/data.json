@@ -1,70 +1,57 @@
 {
-  "updated": "2026-10-24T11:48:25.596900+00:00",
+  "updated": "2026-10-25T12:17:39.482511+00:00",
   "prices": {
     "BTC": {
-      "usd": 80540,
-      "eur": 71885,
-      "change24h": -1.3660296638875822
+      "usd": 80392,
+      "eur": 71760,
+      "change24h": -0.26329577752919675
     },
     "ETH": {
-      "usd": 2363.66,
-      "eur": 2109.66,
-      "change24h": -1.6029779679287026
+      "usd": 2332.33,
+      "eur": 2081.88,
+      "change24h": -1.3565951665041658
     },
     "XRP": {
-      "usd": 1.28,
-      "eur": 1.14,
-      "change24h": -3.2630088642937287
+      "usd": 1.3,
+      "eur": 1.16,
+      "change24h": 1.191024344398048
     }
   },
   "news": {
     "BTC": [
       {
-        "title": "Bitcoin ETFs shed $635 million as BTC tests their holdings’ estimated $81,500 cost basis",
-        "link": "https://cryptoslate.com/bitcoin-etf-outflows-holdings-cost-basis/",
-        "source": "CryptoSlate",
-        "date": "2026-10-23T18:10:49+00:00"
-      },
-      {
-        "title": "Robinhood sees surge in bitcoin, gold prediction markets as traders move beyond sports",
-        "link": "https://www.coindesk.com/markets/2026/10/23/robinhood-sees-surge-in-bitcoin-gold-prediction-markets-as-traders-move-beyond-sports",
+        "title": "Bitcoin’s wealthy holders turning to loans and yield as investment habits mature: Xapo CEO",
+        "link": "https://www.coindesk.com/business/2026/10/24/bitcoin-s-wealthy-holders-turning-to-loans-and-yield-as-investment-habits-mature-xapo-ceo",
         "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "date": "2026-10-23T13:58:56+00:00"
+        "date": "2026-10-24T14:00:00+00:00"
       },
       {
-        "title": "Bitcoin Core Rewrites Its Security Policy for a World Where AI Finds Bugs in One Prompt",
-        "link": "https://decrypt.co/381715/bitcoin-core-security-policy-ai-threats",
-        "source": "Decrypt",
-        "date": "2026-10-23T17:16:03+00:00"
+        "title": "Strategy, Strive face balancing act between bitcoin buying and preferred stock dividends",
+        "link": "https://www.coindesk.com/business/2026/10/24/strategy-strive-face-balancing-act-between-bitcoin-buying-and-preferred-stock-dividends",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "date": "2026-10-24T16:00:00+00:00"
+      },
+      {
+        "title": "Crypto under weekend pressure, bitcoin slides below $80,000 on U.S. Middle East evacuations",
+        "link": "https://www.coindesk.com/markets/2026/10/24/crypto-under-weekend-pressure-bitcoin-slides-below-usd80-000-on-u-s-middle-east-evacuations",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "date": "2026-10-24T15:11:24+00:00"
       }
     ],
     "ETH": [
       {
-        "title": "Ethereum staking yield is losing to cash rates, so why are investors still lining up?",
-        "link": "https://cryptoslate.com/ethereum-staking-yield-is-losing-to-cash-rates-so-why-are-investors-still-lining-up/",
+        "title": "Ethereum sees biggest exchange withdrawal in four months as October ETF losses top $1 billion",
+        "link": "https://cryptoslate.com/ethereum-sees-biggest-exchange-withdrawal-in-four-months-as-october-etf-losses-top-1-billion/",
         "source": "CryptoSlate",
-        "date": "2026-10-24T07:00:27+00:00"
+        "date": "2026-10-24T13:30:53+00:00"
       },
       {
-        "title": "Ethereum Delays Glamsterdam Testnet Fork Over Gas Security Flaws",
-        "link": "https://decrypt.co/381681/ethereum-delays-glamsterdam-testnet-fork-over-gas-security-flaws",
-        "source": "Decrypt",
-        "date": "2026-10-23T11:49:37+00:00"
-      },
-      {
-        "title": "Initia halts blockchain after exploit reportedly drains over $2.6M",
-        "link": "https://cointelegraph.com/news/initia-halts-blockchain-exploit-drained?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "date": "2026-10-23T18:39:02+00:00"
+        "title": "Arthur Hayes exits crypto trading positions as analysts track $26 million in sales",
+        "link": "https://cryptoslate.com/arthur-hayes-exits-crypto-trading-positions-as-analysts-track-26-million-in-sales/",
+        "source": "CryptoSlate",
+        "date": "2026-10-24T18:00:27+00:00"
       }
     ],
-    "XRP": [
-      {
-        "title": "Franklin Templeton adds $150 million in fund shares to XRP Ledger, all in one wallet",
-        "link": "https://www.coindesk.com/markets/2026/10/24/franklin-templeton-adds-usd150-million-in-fund-shares-to-xrp-ledger-all-in-one-wallet",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "date": "2026-10-24T04:45:43+00:00"
-      }
-    ]
+    "XRP": []
   }
 }

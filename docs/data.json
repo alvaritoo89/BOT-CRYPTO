@@ -1,57 +1,76 @@
 {
-  "updated": "2026-10-25T12:17:39.482511+00:00",
+  "updated": "2026-10-26T13:48:35.947695+00:00",
   "prices": {
     "BTC": {
-      "usd": 80392,
-      "eur": 71760,
-      "change24h": -0.26329577752919675
+      "usd": 79695,
+      "eur": 71258,
+      "change24h": -0.7936287397131672
     },
     "ETH": {
-      "usd": 2332.33,
-      "eur": 2081.88,
-      "change24h": -1.3565951665041658
+      "usd": 2305.68,
+      "eur": 2061.59,
+      "change24h": -1.2433919054328164
     },
     "XRP": {
-      "usd": 1.3,
-      "eur": 1.16,
-      "change24h": 1.191024344398048
+      "usd": 1.29,
+      "eur": 1.15,
+      "change24h": -0.9356917390660514
     }
   },
   "news": {
     "BTC": [
       {
-        "title": "Bitcoin’s wealthy holders turning to loans and yield as investment habits mature: Xapo CEO",
-        "link": "https://www.coindesk.com/business/2026/10/24/bitcoin-s-wealthy-holders-turning-to-loans-and-yield-as-investment-habits-mature-xapo-ceo",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "date": "2026-10-24T14:00:00+00:00"
+        "title": "BTC price risks $80K loss into FOMC, earnings: Three things to know in Bitcoin this week",
+        "link": "https://cointelegraph.com/markets/btc-price-risks-80k-loss-into-fomc-earnings-three-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "date": "2026-10-26T10:49:55+00:00"
       },
       {
-        "title": "Strategy, Strive face balancing act between bitcoin buying and preferred stock dividends",
-        "link": "https://www.coindesk.com/business/2026/10/24/strategy-strive-face-balancing-act-between-bitcoin-buying-and-preferred-stock-dividends",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "date": "2026-10-24T16:00:00+00:00"
+        "title": "Strive Buys 6,182 Bitcoin For $511 Million, Lines Up $1 Billion ATM To Buy More",
+        "link": "https://bitcoinmagazine.com/news/strive-asst-buys-6182-bitcoin",
+        "source": "Bitcoin Magazine",
+        "date": "2026-10-26T12:24:27+00:00"
       },
       {
-        "title": "Crypto under weekend pressure, bitcoin slides below $80,000 on U.S. Middle East evacuations",
-        "link": "https://www.coindesk.com/markets/2026/10/24/crypto-under-weekend-pressure-bitcoin-slides-below-usd80-000-on-u-s-middle-east-evacuations",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "date": "2026-10-24T15:11:24+00:00"
+        "title": "Leon Wankum: The Insane Math Behind Bitcoin Demonetizing Real Estate",
+        "link": "https://bitcoinmagazine.com/videos/leon-wankum-the-insane-math-behind-bitcoin-demonetizing-real-estate",
+        "source": "Bitcoin Magazine",
+        "date": "2026-10-26T13:37:28+00:00"
       }
     ],
     "ETH": [
       {
-        "title": "Ethereum sees biggest exchange withdrawal in four months as October ETF losses top $1 billion",
-        "link": "https://cryptoslate.com/ethereum-sees-biggest-exchange-withdrawal-in-four-months-as-october-etf-losses-top-1-billion/",
+        "title": "Lido opens larger Ethereum validators with a 32 ETH operator bond",
+        "link": "https://cryptoslate.com/lido-opens-larger-ethereum-validators-with-a-32-eth-operator-bond/",
         "source": "CryptoSlate",
-        "date": "2026-10-24T13:30:53+00:00"
+        "date": "2026-10-26T01:00:15+00:00"
       },
       {
-        "title": "Arthur Hayes exits crypto trading positions as analysts track $26 million in sales",
-        "link": "https://cryptoslate.com/arthur-hayes-exits-crypto-trading-positions-as-analysts-track-26-million-in-sales/",
-        "source": "CryptoSlate",
-        "date": "2026-10-24T18:00:27+00:00"
+        "title": "AI agents help rescue ETH’s Glamsterdam fork, ‘Steal My Bitcoin’ site: Hodler’s Digest",
+        "link": "https://cointelegraph.com/magazine/ai-agents-help-rescue-eths-glamsterdam-fork-steal-my-bitcoin-site-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "date": "2026-10-25T22:48:40+00:00"
+      },
+      {
+        "title": "Bitcoin slips under $80,000 as traders de-risk ahead of Fed meeting",
+        "link": "https://www.coindesk.com/markets/2026/10/26/bitcoin-slips-under-usd80-000-as-traders-de-risk-ahead-of-fed-meeting",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "date": "2026-10-26T04:37:02+00:00"
       }
     ],
-    "XRP": []
+    "XRP": [
+      {
+        "title": "Aviva Investors launches tokenized share class of $29B Sterling fund on XRP Ledger",
+        "link": "https://cointelegraph.com/news/aviva-investors-launches-tokenized-share-class-of-sterling-fund-on-xrp-ledger?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "date": "2026-10-26T11:39:27+00:00"
+      },
+      {
+        "title": "Bitcoin slips under $80,000 as traders de-risk ahead of Fed meeting",
+        "link": "https://www.coindesk.com/markets/2026/10/26/bitcoin-slips-under-usd80-000-as-traders-de-risk-ahead-of-fed-meeting",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "date": "2026-10-26T04:37:02+00:00"
+      }
+    ]
   }
 }

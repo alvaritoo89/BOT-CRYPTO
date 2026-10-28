@@ -1,81 +1,81 @@
 {
-  "updated": "2026-10-27T12:55:41.838968+00:00",
+  "updated": "2026-10-28T13:44:53.563993+00:00",
   "prices": {
     "BTC": {
-      "usd": 80327,
-      "eur": 72021,
-      "change24h": 0.048890150009335824
+      "usd": 80677,
+      "eur": 72445,
+      "change24h": 0.6783792717728728
     },
     "ETH": {
-      "usd": 2335.37,
-      "eur": 2093.9,
-      "change24h": 0.4866965062033951
+      "usd": 2337.93,
+      "eur": 2099.36,
+      "change24h": 0.42974482472174286
     },
     "XRP": {
       "usd": 1.32,
-      "eur": 1.18,
-      "change24h": 1.7083066182912519
+      "eur": 1.19,
+      "change24h": 0.32340385296584573
     }
   },
   "news": {
     "BTC": [
       {
-        "title": "Coinbase Institutional Co-CEO: Bitcoin’s “Second Wave” of Institutional Capital has Arrived",
-        "link": "https://bitcoinmagazine.com/videos/coinbase-institutional-co-ceo-bitcoins-second-wave-of-institutional-capital-has-arrived",
-        "source": "Bitcoin Magazine",
-        "date": "2026-10-26T19:24:08+00:00"
+        "title": "Bitcoin ETF inflows climb to $176M as BTC rebounds above $80K",
+        "link": "https://cointelegraph.com/markets/bitcoin-etf-176-million-inflow-sentiment-rebounds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "date": "2026-10-28T07:57:18+00:00"
       },
       {
-        "title": "Bitcoin moves over $5 billion in value but miners collect just $185,000 in transaction fees",
-        "link": "https://cryptoslate.com/bitcoin-moves-over-5-billion-in-value-but-miners-collect-just-185000-in-transaction-fees/",
-        "source": "CryptoSlate",
-        "date": "2026-10-27T12:40:41+00:00"
-      },
-      {
-        "title": "Bitcoin drops below $80,000 as crypto ignores Asian tech rally, Fed meeting begins",
-        "link": "https://www.coindesk.com/markets/2026/10/27/bitcoin-drops-below-usd80-000-as-crypto-ignores-asian-tech-rally-fed-meeting-begins",
+        "title": "Bitcoin treasury Datavault AI plunges 50% after firm says it can’t access its BTC",
+        "link": "https://www.coindesk.com/markets/2026/10/28/bitcoin-treasury-datavault-ai-plunges-50-after-firm-says-it-can-t-access-its-btc",
         "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "date": "2026-10-27T11:32:45+00:00"
+        "date": "2026-10-28T05:28:13+00:00"
+      },
+      {
+        "title": "BTC Hash Ribbon Signal Flipped: Bitcoin Miners Show the Bottom Might Be In",
+        "link": "https://bitcoinmagazine.com/videos/btc-hash-ribbon-signal-flipped-bitcoin-miners-show-the-bottom-might-be-in",
+        "source": "Bitcoin Magazine",
+        "date": "2026-10-28T13:20:24+00:00"
       }
     ],
     "ETH": [
       {
-        "title": "Tom Lee's Bitmine Keeps Buying Ethereum But Pivots to Record Share Buybacks",
-        "link": "https://decrypt.co/381826/tom-lee-bitmine-keeps-buying-ethereum-share-buybacks",
+        "title": "Ethereum’s $3 billion blockspace bet hinges on who gets to produce the next block",
+        "link": "https://cryptoslate.com/ethereums-3-billion-blockspace-bet-hinges-on-who-gets-to-produce-the-next-block/",
+        "source": "CryptoSlate",
+        "date": "2026-10-28T09:40:42+00:00"
+      },
+      {
+        "title": "OpenAI Proves ETH Is False, and Crypto Twitter Has Questions",
+        "link": "https://decrypt.co/381956/opena-eth-false-crypto-twitter-has-questions",
         "source": "Decrypt",
-        "date": "2026-10-26T15:36:03+00:00"
+        "date": "2026-10-27T16:53:13+00:00"
       },
       {
-        "title": "Tom Lee's Bitmine favors share buybacks to ether purchases as crypto declines",
-        "link": "https://www.coindesk.com/business/2026/10/26/tom-lee-s-bitmine-favors-share-buybacks-to-ether-purchases-as-crypto-declines",
+        "title": "Google to preview crypto custody security system as AI threats grow",
+        "link": "https://www.coindesk.com/tech/2026/10/28/google-to-preview-crypto-custody-security-system-as-ai-threats-grow",
         "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "date": "2026-10-26T16:05:12+00:00"
-      },
-      {
-        "title": "Ethereum fixes Glamsterdam bug that could have sent staking deposits to builders",
-        "link": "https://www.coindesk.com/tech/2026/10/27/ethereum-fixes-glamsterdam-bug-that-could-have-sent-staking-deposits-to-builders",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "date": "2026-10-27T07:09:56+00:00"
+        "date": "2026-10-28T11:00:00+00:00"
       }
     ],
     "XRP": [
       {
-        "title": "Ripple connects XRP Ledger to a £22 billion investment giant while chasing the next wave of corporate money",
-        "link": "https://cryptoslate.com/ripple-connects-xrp-ledger-to-a-22-billion-investment-giant-while-chasing-the-next-wave-of-corporate-money/",
+        "title": "Robinhood links 29 million app users to Ripple’s XRP Ledger",
+        "link": "https://cryptoslate.com/robinhood-links-29-million-app-users-to-ripples-xrp-ledger/",
         "source": "CryptoSlate",
-        "date": "2026-10-26T19:50:14+00:00"
+        "date": "2026-10-28T08:40:08+00:00"
       },
       {
-        "title": "Bitcoin shows signs of weakness while Ripple's bank win fails to bolster XRP",
-        "link": "https://www.coindesk.com/daybook-us/2026/10/27/bitcoin-shows-signs-of-weakness-while-ripple-s-bank-win-fails-to-bolster-xrp",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "date": "2026-10-27T12:00:39+00:00"
+        "title": "Ripple, Robinhood expand partnership to bring RLUSD to retail and institutional markets",
+        "link": "https://cointelegraph.com/news/ripple-robinhood-expand-partnership-rlusd-retail-institutional-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "date": "2026-10-27T19:54:05+00:00"
       },
       {
-        "title": "Ripple Wins Final OCC Approval for Trust Bank Behind $2.6B RLUSD Stablecoin",
-        "link": "https://decrypt.co/381899/ripple-wins-final-occ-approval-for-trust-bank-behind-2-6b-rlusd-stablecoin",
+        "title": "Moody's Rates Ripple's $2.6B RLUSD Stablecoin A2, a Day After OCC Bank Approval",
+        "link": "https://decrypt.co/382030/moodys-rates-ripples-2-6b-rlusd-stablecoin-a2-a-day-after-occ-bank-approval",
         "source": "Decrypt",
-        "date": "2026-10-27T10:16:46+00:00"
+        "date": "2026-10-28T12:16:30+00:00"
       }
     ]
   }

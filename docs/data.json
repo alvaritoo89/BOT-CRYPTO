@@ -1,81 +1,75 @@
 {
-  "updated": "2026-10-28T13:44:53.563993+00:00",
+  "updated": "2026-10-29T13:53:53.102466+00:00",
   "prices": {
     "BTC": {
-      "usd": 80677,
-      "eur": 72445,
-      "change24h": 0.6783792717728728
+      "usd": 80127,
+      "eur": 72005,
+      "change24h": -0.3501823449006393
     },
     "ETH": {
-      "usd": 2337.93,
-      "eur": 2099.36,
-      "change24h": 0.42974482472174286
+      "usd": 2321.92,
+      "eur": 2086.56,
+      "change24h": -0.17227234746620534
     },
     "XRP": {
-      "usd": 1.32,
-      "eur": 1.19,
-      "change24h": 0.32340385296584573
+      "usd": 1.29,
+      "eur": 1.16,
+      "change24h": -1.825693871210005
     }
   },
   "news": {
     "BTC": [
       {
-        "title": "Bitcoin ETF inflows climb to $176M as BTC rebounds above $80K",
-        "link": "https://cointelegraph.com/markets/bitcoin-etf-176-million-inflow-sentiment-rebounds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "date": "2026-10-28T07:57:18+00:00"
+        "title": "Bitcoin Treasury Datavault AI Says It Can’t Access Its BTC, Stock Tanks",
+        "link": "https://decrypt.co/382116/bitcoin-treasury-datavault-ai-stock-crashes-cant-access-btc",
+        "source": "Decrypt",
+        "date": "2026-10-28T21:46:02+00:00"
       },
       {
-        "title": "Bitcoin treasury Datavault AI plunges 50% after firm says it can’t access its BTC",
-        "link": "https://www.coindesk.com/markets/2026/10/28/bitcoin-treasury-datavault-ai-plunges-50-after-firm-says-it-can-t-access-its-btc",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "date": "2026-10-28T05:28:13+00:00"
+        "title": "China’s tech crash erased $480 billion. Bitcoin rose 27% over the same dates",
+        "link": "https://cryptoslate.com/chinas-near-40-tech-rout-contrasts-with-bitcoins-27-gain-over-the-same-dates/",
+        "source": "CryptoSlate",
+        "date": "2026-10-29T12:00:16+00:00"
       },
       {
-        "title": "BTC Hash Ribbon Signal Flipped: Bitcoin Miners Show the Bottom Might Be In",
-        "link": "https://bitcoinmagazine.com/videos/btc-hash-ribbon-signal-flipped-bitcoin-miners-show-the-bottom-might-be-in",
-        "source": "Bitcoin Magazine",
-        "date": "2026-10-28T13:20:24+00:00"
+        "title": "Morning Minute: Hedge Funds Left the BTC ETF Trade and Sovereign Wealth Stepped In",
+        "link": "https://decrypt.co/382135/morning-minute-hedge-funds-left-the-btc-etf-trade-and-sovereign-wealth-stepped-in",
+        "source": "Decrypt",
+        "date": "2026-10-29T12:30:38+00:00"
       }
     ],
     "ETH": [
       {
-        "title": "Ethereum’s $3 billion blockspace bet hinges on who gets to produce the next block",
-        "link": "https://cryptoslate.com/ethereums-3-billion-blockspace-bet-hinges-on-who-gets-to-produce-the-next-block/",
-        "source": "CryptoSlate",
-        "date": "2026-10-28T09:40:42+00:00"
+        "title": "Private, fast USDT is coming to Bitcoin. Can it compete with Ethereum and Tron?",
+        "link": "https://cointelegraph.com/magazine/private-fast-usdt-is-coming-to-bitcoin-can-it-compete-with-ethereum-and-tron?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "date": "2026-10-29T13:30:00+00:00"
       },
       {
-        "title": "OpenAI Proves ETH Is False, and Crypto Twitter Has Questions",
-        "link": "https://decrypt.co/381956/opena-eth-false-crypto-twitter-has-questions",
-        "source": "Decrypt",
-        "date": "2026-10-27T16:53:13+00:00"
-      },
-      {
-        "title": "Google to preview crypto custody security system as AI threats grow",
-        "link": "https://www.coindesk.com/tech/2026/10/28/google-to-preview-crypto-custody-security-system-as-ai-threats-grow",
+        "title": "Security failure at Indian certificate firm bites Ethereum as developers rush out fixes",
+        "link": "https://www.coindesk.com/tech/2026/10/29/ethereum-clients-patch-flaw-that-could-let-attackers-redirect-eth-rewards",
         "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "date": "2026-10-28T11:00:00+00:00"
+        "date": "2026-10-29T05:30:34+00:00"
+      },
+      {
+        "title": "Your fridge could one day stake Ether, launch memecoins: CFTC chair",
+        "link": "https://cointelegraph.com/news/a-fridge-that-launches-memecoins-cftc-floats-ai-crypto-future?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "date": "2026-10-29T04:39:49+00:00"
       }
     ],
     "XRP": [
       {
-        "title": "Robinhood links 29 million app users to Ripple’s XRP Ledger",
-        "link": "https://cryptoslate.com/robinhood-links-29-million-app-users-to-ripples-xrp-ledger/",
+        "title": "Ripple is heading for its best year ever while XRP faces its worst since 2022",
+        "link": "https://cryptoslate.com/ripple-is-heading-for-its-best-year-ever-while-xrp-faces-its-worst-since-2022/",
         "source": "CryptoSlate",
-        "date": "2026-10-28T08:40:08+00:00"
+        "date": "2026-10-29T02:10:42+00:00"
       },
       {
-        "title": "Ripple, Robinhood expand partnership to bring RLUSD to retail and institutional markets",
-        "link": "https://cointelegraph.com/news/ripple-robinhood-expand-partnership-rlusd-retail-institutional-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "date": "2026-10-27T19:54:05+00:00"
-      },
-      {
-        "title": "Moody's Rates Ripple's $2.6B RLUSD Stablecoin A2, a Day After OCC Bank Approval",
-        "link": "https://decrypt.co/382030/moodys-rates-ripples-2-6b-rlusd-stablecoin-a2-a-day-after-occ-bank-approval",
-        "source": "Decrypt",
-        "date": "2026-10-28T12:16:30+00:00"
+        "title": "Ripple’s RLUSD stablecoin gains Coinbase access as Moody’s awards investment-grade rating",
+        "link": "https://cryptoslate.com/ripples-rlusd-stablecoin-gains-coinbase-access-as-moodys-awards-investment-grade-rating/",
+        "source": "CryptoSlate",
+        "date": "2026-10-29T05:30:07+00:00"
       }
     ]
   }

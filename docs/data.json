@@ -1,75 +1,81 @@
 {
-  "updated": "2026-10-29T13:53:53.102466+00:00",
+  "updated": "2026-10-30T13:46:02.984289+00:00",
   "prices": {
     "BTC": {
-      "usd": 80127,
-      "eur": 72005,
-      "change24h": -0.3501823449006393
+      "usd": 77049,
+      "eur": 69024,
+      "change24h": -3.566112363663586
     },
     "ETH": {
-      "usd": 2321.92,
-      "eur": 2086.56,
-      "change24h": -0.17227234746620534
+      "usd": 2220.3,
+      "eur": 1989.05,
+      "change24h": -4.089508550244447
     },
     "XRP": {
-      "usd": 1.29,
-      "eur": 1.16,
-      "change24h": -1.825693871210005
+      "usd": 1.24,
+      "eur": 1.11,
+      "change24h": -3.808182381599675
     }
   },
   "news": {
     "BTC": [
       {
-        "title": "Bitcoin Treasury Datavault AI Says It Can’t Access Its BTC, Stock Tanks",
-        "link": "https://decrypt.co/382116/bitcoin-treasury-datavault-ai-stock-crashes-cant-access-btc",
-        "source": "Decrypt",
-        "date": "2026-10-28T21:46:02+00:00"
+        "title": "FutureBit Apollo Solo Miner Finds Bitcoin Block 973262, Earning 3.154 BTC",
+        "link": "https://bitcoinmagazine.com/featured/futurebit-apollo-solo-miner-finds-bitcoin-block-973262-earning-3-154-btc",
+        "source": "Bitcoin Magazine",
+        "date": "2026-10-29T17:57:52+00:00"
       },
       {
-        "title": "China’s tech crash erased $480 billion. Bitcoin rose 27% over the same dates",
-        "link": "https://cryptoslate.com/chinas-near-40-tech-rout-contrasts-with-bitcoins-27-gain-over-the-same-dates/",
-        "source": "CryptoSlate",
-        "date": "2026-10-29T12:00:16+00:00"
+        "title": "Crypto liquidations jump to $1.57 billion as Binance hack sends bitcoin, ether lower",
+        "link": "https://www.coindesk.com/markets/2026/10/30/crypto-liquidations-jump-to-usd1-57-billion-as-binance-hack-sends-bitcoin-ether-lower",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "date": "2026-10-30T11:09:24+00:00"
       },
       {
-        "title": "Morning Minute: Hedge Funds Left the BTC ETF Trade and Sovereign Wealth Stepped In",
-        "link": "https://decrypt.co/382135/morning-minute-hedge-funds-left-the-btc-etf-trade-and-sovereign-wealth-stepped-in",
-        "source": "Decrypt",
-        "date": "2026-10-29T12:30:38+00:00"
+        "title": "Binance hacker’s Bitcoin haul tops Coinbase’s corporate treasury",
+        "link": "https://cointelegraph.com/news/binance-hacker-bitcoin-holdings-exceed-coinbase-btc-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "date": "2026-10-30T10:54:30+00:00"
       }
     ],
     "ETH": [
       {
-        "title": "Private, fast USDT is coming to Bitcoin. Can it compete with Ethereum and Tron?",
-        "link": "https://cointelegraph.com/magazine/private-fast-usdt-is-coming-to-bitcoin-can-it-compete-with-ethereum-and-tron?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "date": "2026-10-29T13:30:00+00:00"
-      },
-      {
-        "title": "Security failure at Indian certificate firm bites Ethereum as developers rush out fixes",
-        "link": "https://www.coindesk.com/tech/2026/10/29/ethereum-clients-patch-flaw-that-could-let-attackers-redirect-eth-rewards",
+        "title": "Here’s how an Ethereum upgrade helped drain part of Binance’s $6 billion loss",
+        "link": "https://www.coindesk.com/tech/2026/10/30/here-s-how-one-ethereum-permission-let-an-attacker-drain-usd2-5-billion-from-binance",
         "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "date": "2026-10-29T05:30:34+00:00"
+        "date": "2026-10-30T11:35:16+00:00"
       },
       {
-        "title": "Your fridge could one day stake Ether, launch memecoins: CFTC chair",
-        "link": "https://cointelegraph.com/news/a-fridge-that-launches-memecoins-cftc-floats-ai-crypto-future?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "date": "2026-10-29T04:39:49+00:00"
+        "title": "Crypto liquidations jump to $1.57 billion as Binance hack sends bitcoin, ether lower",
+        "link": "https://www.coindesk.com/markets/2026/10/30/crypto-liquidations-jump-to-usd1-57-billion-as-binance-hack-sends-bitcoin-ether-lower",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "date": "2026-10-30T11:09:24+00:00"
+      },
+      {
+        "title": "Bitcoin, ether and XRP selloff wipes out $1.5 billion in leveraged crypto bets",
+        "link": "https://www.coindesk.com/markets/2026/10/30/bitcoin-ether-and-xrp-selloff-wipes-out-usd1-5-billion-in-leveraged-crypto-bets",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "date": "2026-10-30T06:22:00+00:00"
       }
     ],
     "XRP": [
       {
-        "title": "Ripple is heading for its best year ever while XRP faces its worst since 2022",
-        "link": "https://cryptoslate.com/ripple-is-heading-for-its-best-year-ever-while-xrp-faces-its-worst-since-2022/",
-        "source": "CryptoSlate",
-        "date": "2026-10-29T02:10:42+00:00"
+        "title": "Bitcoin, ether and XRP selloff wipes out $1.5 billion in leveraged crypto bets",
+        "link": "https://www.coindesk.com/markets/2026/10/30/bitcoin-ether-and-xrp-selloff-wipes-out-usd1-5-billion-in-leveraged-crypto-bets",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "date": "2026-10-30T06:22:00+00:00"
       },
       {
-        "title": "Ripple’s RLUSD stablecoin gains Coinbase access as Moody’s awards investment-grade rating",
-        "link": "https://cryptoslate.com/ripples-rlusd-stablecoin-gains-coinbase-access-as-moodys-awards-investment-grade-rating/",
+        "title": "Binance hack began with a $296 million XRP drain after 36-hour preparation",
+        "link": "https://cryptoslate.com/binance-hack-began-with-a-296-million-xrp-drain-after-36-hour-preparation/",
         "source": "CryptoSlate",
-        "date": "2026-10-29T05:30:07+00:00"
+        "date": "2026-10-30T05:40:52+00:00"
+      },
+      {
+        "title": "XRP Ledger developers tighten the rules for who can hold 'restricted' tokens",
+        "link": "https://www.coindesk.com/tech/2026/10/30/xrp-ledger-developers-tighten-the-rules-for-who-can-hold-restricted-tokens",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "date": "2026-10-30T05:45:27+00:00"
       }
     ]
   }

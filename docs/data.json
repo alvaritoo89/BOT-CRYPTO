@@ -1,81 +1,69 @@
 {
-  "updated": "2026-10-30T13:46:02.984289+00:00",
+  "updated": "2026-10-31T13:14:53.959398+00:00",
   "prices": {
     "BTC": {
-      "usd": 77049,
-      "eur": 69024,
-      "change24h": -3.566112363663586
+      "usd": 77449,
+      "eur": 69154,
+      "change24h": 0.2727838381681901
     },
     "ETH": {
-      "usd": 2220.3,
-      "eur": 1989.05,
-      "change24h": -4.089508550244447
+      "usd": 2245.84,
+      "eur": 2005.3,
+      "change24h": 0.8128322853319244
     },
     "XRP": {
-      "usd": 1.24,
+      "usd": 1.25,
       "eur": 1.11,
-      "change24h": -3.808182381599675
+      "change24h": 0.2153045252070842
     }
   },
   "news": {
     "BTC": [
       {
-        "title": "FutureBit Apollo Solo Miner Finds Bitcoin Block 973262, Earning 3.154 BTC",
-        "link": "https://bitcoinmagazine.com/featured/futurebit-apollo-solo-miner-finds-bitcoin-block-973262-earning-3-154-btc",
-        "source": "Bitcoin Magazine",
-        "date": "2026-10-29T17:57:52+00:00"
-      },
-      {
-        "title": "Crypto liquidations jump to $1.57 billion as Binance hack sends bitcoin, ether lower",
-        "link": "https://www.coindesk.com/markets/2026/10/30/crypto-liquidations-jump-to-usd1-57-billion-as-binance-hack-sends-bitcoin-ether-lower",
+        "title": "A Nasdaq-listed company may sell $450 million bitcoin, citing Binance hack and quantum fears",
+        "link": "https://www.coindesk.com/markets/2026/10/31/a-nasdaq-listed-company-may-sell-usd450-million-bitcoin-citing-binance-hack-and-quantum-fears",
         "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "date": "2026-10-30T11:09:24+00:00"
+        "date": "2026-10-31T12:49:47+00:00"
       },
       {
-        "title": "Binance hacker’s Bitcoin haul tops Coinbase’s corporate treasury",
-        "link": "https://cointelegraph.com/news/binance-hacker-bitcoin-holdings-exceed-coinbase-btc-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "date": "2026-10-30T10:54:30+00:00"
+        "title": "Binance Hack: Why Bitcoin Didn't Crash Like It Did in 2018",
+        "link": "https://decrypt.co/382257/binance-hack-why-bitcoin-didnt-crash",
+        "source": "Decrypt",
+        "date": "2026-10-30T18:45:03+00:00"
+      },
+      {
+        "title": "Bitcoin stolen from Binance tops Tesla’s holdings and is over twice El Salvador’s reserve",
+        "link": "https://www.coindesk.com/markets/2026/10/31/bitcoin-stolen-from-binance-tops-tesla-s-holdings-and-is-over-twice-el-salvador-s-reserve",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "date": "2026-10-31T05:01:32+00:00"
       }
     ],
     "ETH": [
       {
-        "title": "Here’s how an Ethereum upgrade helped drain part of Binance’s $6 billion loss",
-        "link": "https://www.coindesk.com/tech/2026/10/30/here-s-how-one-ethereum-permission-let-an-attacker-drain-usd2-5-billion-from-binance",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "date": "2026-10-30T11:35:16+00:00"
-      },
-      {
-        "title": "Crypto liquidations jump to $1.57 billion as Binance hack sends bitcoin, ether lower",
-        "link": "https://www.coindesk.com/markets/2026/10/30/crypto-liquidations-jump-to-usd1-57-billion-as-binance-hack-sends-bitcoin-ether-lower",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "date": "2026-10-30T11:09:24+00:00"
-      },
-      {
-        "title": "Bitcoin, ether and XRP selloff wipes out $1.5 billion in leveraged crypto bets",
-        "link": "https://www.coindesk.com/markets/2026/10/30/bitcoin-ether-and-xrp-selloff-wipes-out-usd1-5-billion-in-leveraged-crypto-bets",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "date": "2026-10-30T06:22:00+00:00"
+        "title": "What is EIP-7702? The Ethereum Upgrade Behind the $6.4B Binance Hack",
+        "link": "https://decrypt.co/resources/what-is-eip-7702-the-ethereum-upgrade-behind-the-6-4b-binance-hack",
+        "source": "Decrypt",
+        "date": "2026-10-30T14:17:34+00:00"
       }
     ],
     "XRP": [
       {
-        "title": "Bitcoin, ether and XRP selloff wipes out $1.5 billion in leveraged crypto bets",
-        "link": "https://www.coindesk.com/markets/2026/10/30/bitcoin-ether-and-xrp-selloff-wipes-out-usd1-5-billion-in-leveraged-crypto-bets",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "date": "2026-10-30T06:22:00+00:00"
-      },
-      {
-        "title": "Binance hack began with a $296 million XRP drain after 36-hour preparation",
-        "link": "https://cryptoslate.com/binance-hack-began-with-a-296-million-xrp-drain-after-36-hour-preparation/",
+        "title": "Why Ripple’s $16 trillion payment volume isn’t boosting XRP",
+        "link": "https://cryptoslate.com/ripple-is-winning-everywhere-so-why-isnt-xrp/",
         "source": "CryptoSlate",
-        "date": "2026-10-30T05:40:52+00:00"
+        "date": "2026-10-31T11:20:56+00:00"
       },
       {
-        "title": "XRP Ledger developers tighten the rules for who can hold 'restricted' tokens",
-        "link": "https://www.coindesk.com/tech/2026/10/30/xrp-ledger-developers-tighten-the-rules-for-who-can-hold-restricted-tokens",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "date": "2026-10-30T05:45:27+00:00"
+        "title": "Maple locks $280M in XRP collateral and upcoming maturity dates threaten liquidations",
+        "link": "https://cryptoslate.com/maple-locks-280m-in-xrp-collateral-and-upcoming-maturity-dates-threaten-liquidations/",
+        "source": "CryptoSlate",
+        "date": "2026-10-31T00:10:43+00:00"
+      },
+      {
+        "title": "Crypto Biz: Bitcoin’s quantum threat is becoming an economic problem",
+        "link": "https://cointelegraph.com/news/bitcoin-quantum-threat-ripple-bank-usdc-vaneck-crypto-biz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "date": "2026-10-30T17:09:31+00:00"
       }
     ]
   }

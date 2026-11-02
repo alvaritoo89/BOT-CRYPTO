@@ -1,51 +1,76 @@
 {
-  "updated": "2026-11-01T13:58:39.351174+00:00",
+  "updated": "2026-11-02T16:45:31.303851+00:00",
   "prices": {
     "BTC": {
-      "usd": 77857,
-      "eur": 69518,
-      "change24h": 0.4923448970438282
+      "usd": 77433,
+      "eur": 69134,
+      "change24h": -0.7701922411070601
     },
     "ETH": {
-      "usd": 2264.53,
-      "eur": 2021.99,
-      "change24h": 0.6568814801668508
+      "usd": 2269.78,
+      "eur": 2026.5,
+      "change24h": 0.1508882637493558
     },
     "XRP": {
       "usd": 1.25,
       "eur": 1.12,
-      "change24h": 0.2520617499647125
+      "change24h": 0.15327997596507195
     }
   },
   "news": {
     "BTC": [
       {
-        "title": "Binance opens crypto withdrawals in phases starting with bitcoin following $6.3 billion hack",
-        "link": "https://www.coindesk.com/markets/2026/11/01/binance-opens-crypto-withdrawals-in-phases-starting-with-bitcoin-following-usd6-3-billion-hack",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "date": "2026-11-01T10:35:42+00:00"
+        "title": "BTC heads into US midterm showdown: Three things to know in Bitcoin this week",
+        "link": "https://cointelegraph.com/markets/btc-price-script-midterms-three-things-bitcoin-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "date": "2026-11-02T09:41:36+00:00"
       },
       {
-        "title": "FBI confirms North Korea's role in $6 billion Binance hack, asks DeFi community to block BTC, ETH, SOL addresses",
-        "link": "https://www.coindesk.com/policy/2026/10/31/fbi-confirms-north-korea-s-role-in-usd6-billion-binance-hack-asks-defi-community-to-block-btc-eth-sol-addresses",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "date": "2026-11-01T01:10:05+00:00"
+        "title": "Strategy (MSTR) Adds 811 Bitcoin, Strive (ASST) Follows Suit With 124 as Both Keep Stacking",
+        "link": "https://bitcoinmagazine.com/news/strategy-mstr-adds-811-bitcoin-strive-too",
+        "source": "Bitcoin Magazine",
+        "date": "2026-11-02T13:50:53+00:00"
       },
       {
-        "title": "Bitcoin’s recovery faces rising derivatives exposure and $643 million in ETF outflows",
-        "link": "https://cryptoslate.com/bitcoins-recovery-faces-rising-derivatives-exposure-and-643-million-in-etf-outflows/",
-        "source": "CryptoSlate",
-        "date": "2026-11-01T01:10:55+00:00"
+        "title": "Binance taps half its SAFU Bitcoin holdings, releases reserve proof",
+        "link": "https://cointelegraph.com/news/binance-safu-btc-balance-halves-recovery-unclear?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "date": "2026-11-02T13:21:47+00:00"
       }
     ],
     "ETH": [
       {
-        "title": "FBI confirms North Korea's role in $6 billion Binance hack, asks DeFi community to block BTC, ETH, SOL addresses",
-        "link": "https://www.coindesk.com/policy/2026/10/31/fbi-confirms-north-korea-s-role-in-usd6-billion-binance-hack-asks-defi-community-to-block-btc-eth-sol-addresses",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "date": "2026-11-01T01:10:05+00:00"
+        "title": "Ethereum added 361,000 ETH to active stake while its total staking balance shrank",
+        "link": "https://cryptoslate.com/ethereums-active-staking-share-rose-while-october-withdrawals-outpaced-deposits/",
+        "source": "CryptoSlate",
+        "date": "2026-11-02T14:40:10+00:00"
+      },
+      {
+        "title": "Bitmine Buys More Ethereum as Tom Lee Calls the Binance Hack Bullish",
+        "link": "https://decrypt.co/382340/bitmine-buys-more-ethereum-tom-lee-binance-hack-bullish",
+        "source": "Decrypt",
+        "date": "2026-11-02T16:23:24+00:00"
+      },
+      {
+        "title": "ETH vaults lagged staking while dollar strategies beat Treasuries, Glassnode finds",
+        "link": "https://cryptoslate.com/eth-vaults-trailed-staking-as-glassnodes-wider-sample-grew-in-september/",
+        "source": "CryptoSlate",
+        "date": "2026-11-02T16:40:04+00:00"
       }
     ],
-    "XRP": []
+    "XRP": [
+      {
+        "title": "XRP Ledger set to fix flaw that could let stablecoin partners print new tokens",
+        "link": "https://www.coindesk.com/tech/2026/11/02/xrp-ledger-set-to-fix-flaw-that-could-let-stablecoin-partners-print-new-tokens",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "date": "2026-11-02T12:37:24+00:00"
+      },
+      {
+        "title": "RLUSD supply fell 29% on XRPL. One XRP trading pool barely changed",
+        "link": "https://cryptoslate.com/rlusd-supply-fell-29-on-xrpl-one-xrp-trading-pool-barely-changed/",
+        "source": "CryptoSlate",
+        "date": "2026-11-02T03:40:42+00:00"
+      }
+    ]
   }
 }

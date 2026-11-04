@@ -1,63 +1,76 @@
 {
-  "updated": "2026-11-03T14:48:56.858161+00:00",
+  "updated": "2026-11-04T15:00:41.344633+00:00",
   "prices": {
     "BTC": {
-      "usd": 77257,
-      "eur": 69071,
-      "change24h": -0.7038433687441128
+      "usd": 79166,
+      "eur": 70380,
+      "change24h": 2.499467075248749
     },
     "ETH": {
-      "usd": 2286.9,
-      "eur": 2044.57,
-      "change24h": -0.0898457439787915
+      "usd": 2370.85,
+      "eur": 2107.73,
+      "change24h": 3.8213115120063543
     },
     "XRP": {
-      "usd": 1.28,
-      "eur": 1.14,
-      "change24h": 1.8645524722689715
+      "usd": 1.31,
+      "eur": 1.17,
+      "change24h": 2.6749374395323264
     }
   },
   "news": {
     "BTC": [
       {
-        "title": "Bitcoin risks drop below $76K as 7% oil slide fails to spark BTC price rally",
-        "link": "https://cointelegraph.com/markets/bitcoin-risks-sub-76k-drop-as-7-fall-in-oil-fails-to-spark-btc-price-rally?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-        "source": "Cointelegraph.com News",
-        "date": "2026-11-02T19:27:58+00:00"
+        "title": "Bitcoin Price Soars Above $79,000 After Democratic Sweep of Congress",
+        "link": "https://bitcoinmagazine.com/news/bitcoin-trades-above-78000-after-dem-sweep",
+        "source": "Bitcoin Magazine",
+        "date": "2026-11-04T14:21:35+00:00"
       },
       {
-        "title": "Bitcoin’s year-end liquidity hopes face a projected $150 billion Treasury cash rebuild",
-        "link": "https://cryptoslate.com/bitcoins-year-end-liquidity-hopes-face-a-projected-150-billion-treasury-cash-rebuild/",
-        "source": "CryptoSlate",
-        "date": "2026-11-03T13:00:37+00:00"
-      },
-      {
-        "title": "Liquid’s bitcoin IOUs are fully backed again after a $320 million exploit",
-        "link": "https://www.coindesk.com/markets/2026/11/03/liquid-s-bitcoin-ious-are-fully-backed-again-after-a-usd320-million-exploit",
+        "title": "Live updates: Bitcoin and stocks post big gains, reversing overnight plunge following Blue Wave landslide",
+        "link": "https://www.coindesk.com/tech/2026/11/04/live-updates-bitcoin-and-stocks-reverse-overnight-plunge-following-blue-wave-landslide",
         "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "date": "2026-11-03T11:12:12+00:00"
+        "date": "2026-11-04T14:00:53+00:00"
+      },
+      {
+        "title": "Bitcoin rebounds after Democratic sweep despite three days of ETF outflows",
+        "link": "https://cryptoslate.com/bitcoin-rebounds-after-democratic-sweep-despite-three-days-of-etf-outflows/",
+        "source": "CryptoSlate",
+        "date": "2026-11-04T12:30:18+00:00"
       }
     ],
     "ETH": [
       {
-        "title": "Morning Minute: Tom Lee Calls the Binance Hack Bullish for Ethereum",
-        "link": "https://decrypt.co/382410/morning-minute-tom-lee-calls-the-binance-hack-bullish-for-ethereum",
-        "source": "Decrypt",
-        "date": "2026-11-03T13:11:47+00:00"
+        "title": "Ethereum dev targets 2028 for quantum resistance, a year early",
+        "link": "https://cointelegraph.com/news/ethereum-post-quantum-transition-2028-target?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "date": "2026-11-04T05:46:33+00:00"
       },
       {
-        "title": "Bitmine Buys More Ethereum as Tom Lee Calls the Binance Hack Bullish",
-        "link": "https://decrypt.co/382340/bitmine-buys-more-ethereum-tom-lee-binance-hack-bullish",
-        "source": "Decrypt",
-        "date": "2026-11-02T16:23:24+00:00"
+        "title": "THORChain's RUNE jumps 10% as North Korean hackers resume laundering Binance loot",
+        "link": "https://www.coindesk.com/markets/2026/11/04/thorchain-s-rune-jumps-10-as-north-korean-hackers-resume-laundering-binance-loot",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "date": "2026-11-04T12:49:56+00:00"
       },
       {
-        "title": "Ethereum Privacy Network Aztec Rolls Out Major Security and Speed Upgrade",
-        "link": "https://decrypt.co/382387/ethereum-privacy-network-aztec-security-speed-upgrade",
-        "source": "Decrypt",
-        "date": "2026-11-03T14:01:02+00:00"
+        "title": "RUNE rallies 15% as THORChain restarts most swaps after halt",
+        "link": "https://cointelegraph.com/markets/rune-rallies-15-as-thorchain-restarts-most-swaps-after-outage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "date": "2026-11-03T23:56:09+00:00"
       }
     ],
-    "XRP": []
+    "XRP": [
+      {
+        "title": "Why rising XRP whale counts are a fake bullish signal",
+        "link": "https://cryptoslate.com/why-rising-xrp-whale-counts-are-a-fake-bullish-signal/",
+        "source": "CryptoSlate",
+        "date": "2026-11-04T13:40:13+00:00"
+      },
+      {
+        "title": "Coinbase XRP looked cheap on Nov. 2 despite identical market value",
+        "link": "https://cryptoslate.com/coinbase-xrp-looked-cheap-on-nov-2-despite-identical-market-value/",
+        "source": "CryptoSlate",
+        "date": "2026-11-03T23:40:07+00:00"
+      }
+    ]
   }
 }

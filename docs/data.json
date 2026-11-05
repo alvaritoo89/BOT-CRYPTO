@@ -1,75 +1,75 @@
 {
-  "updated": "2026-11-04T15:00:41.344633+00:00",
+  "updated": "2026-11-05T15:06:35.706030+00:00",
   "prices": {
     "BTC": {
-      "usd": 79166,
-      "eur": 70380,
-      "change24h": 2.499467075248749
+      "usd": 77799,
+      "eur": 69370,
+      "change24h": -3.0924650666904387
     },
     "ETH": {
-      "usd": 2370.85,
-      "eur": 2107.73,
-      "change24h": 3.8213115120063543
+      "usd": 2327.46,
+      "eur": 2075.29,
+      "change24h": -4.216717278527543
     },
     "XRP": {
-      "usd": 1.31,
-      "eur": 1.17,
-      "change24h": 2.6749374395323264
+      "usd": 1.27,
+      "eur": 1.13,
+      "change24h": -4.277224122441967
     }
   },
   "news": {
     "BTC": [
       {
-        "title": "Bitcoin Price Soars Above $79,000 After Democratic Sweep of Congress",
-        "link": "https://bitcoinmagazine.com/news/bitcoin-trades-above-78000-after-dem-sweep",
-        "source": "Bitcoin Magazine",
-        "date": "2026-11-04T14:21:35+00:00"
-      },
-      {
-        "title": "Live updates: Bitcoin and stocks post big gains, reversing overnight plunge following Blue Wave landslide",
-        "link": "https://www.coindesk.com/tech/2026/11/04/live-updates-bitcoin-and-stocks-reverse-overnight-plunge-following-blue-wave-landslide",
+        "title": "Google could take stake in bitcoin miner TeraWulf’s $19 billion AI project if Anthropic defaults",
+        "link": "https://www.coindesk.com/tech/2026/11/05/google-could-take-ownership-stake-in-bitcoin-miner-terawulf-s-ai-project-if-anthropic-defaults",
         "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "date": "2026-11-04T14:00:53+00:00"
+        "date": "2026-11-05T13:29:40+00:00"
       },
       {
-        "title": "Bitcoin rebounds after Democratic sweep despite three days of ETF outflows",
-        "link": "https://cryptoslate.com/bitcoin-rebounds-after-democratic-sweep-despite-three-days-of-etf-outflows/",
-        "source": "CryptoSlate",
-        "date": "2026-11-04T12:30:18+00:00"
+        "title": "Bitcoin holds above $80,000 after Wednesday’s jump as injective rallies on staked ETF listing",
+        "link": "https://www.coindesk.com/markets/2026/11/05/bitcoin-holds-above-usd80-000-after-wednesday-s-jump-as-injective-rallies-on-staked-etf-listing",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "date": "2026-11-05T11:30:00+00:00"
+      },
+      {
+        "title": "Mercado Bitcoin hack continued hours after exchange said attack was contained, report finds",
+        "link": "https://www.coindesk.com/business/2026/11/05/mercado-bitcoin-hack-continued-hours-after-exchange-said-attack-was-contained-report-finds",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "date": "2026-11-05T10:44:54+00:00"
       }
     ],
     "ETH": [
       {
-        "title": "Ethereum dev targets 2028 for quantum resistance, a year early",
-        "link": "https://cointelegraph.com/news/ethereum-post-quantum-transition-2028-target?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "title": "Bitcoin, Ether ETFs draw $128M as crypto rebounds after midterms",
+        "link": "https://cointelegraph.com/markets/bitcoin-ether-etfs-turn-green-post-election-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "source": "Cointelegraph.com News",
-        "date": "2026-11-04T05:46:33+00:00"
+        "date": "2026-11-05T08:22:30+00:00"
       },
       {
-        "title": "THORChain's RUNE jumps 10% as North Korean hackers resume laundering Binance loot",
-        "link": "https://www.coindesk.com/markets/2026/11/04/thorchain-s-rune-jumps-10-as-north-korean-hackers-resume-laundering-binance-loot",
+        "title": "Bitcoin holds above $80,000 as Zcash jumps 12% in post-election crypto rebound",
+        "link": "https://www.coindesk.com/markets/2026/11/05/bitcoin-holds-above-usd80-000-as-zcash-jumps-12-in-post-election-crypto-rebound",
         "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "date": "2026-11-04T12:49:56+00:00"
+        "date": "2026-11-05T05:13:45+00:00"
       },
       {
-        "title": "RUNE rallies 15% as THORChain restarts most swaps after halt",
-        "link": "https://cointelegraph.com/markets/rune-rallies-15-as-thorchain-restarts-most-swaps-after-outage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "title": "Trump-linked tokens lead crypto losses after Democrats sweep in the US midterms",
+        "link": "https://cointelegraph.com/news/trump-linked-tokens-lead-crypto-losses-after-democrats-sweep-in-the-us-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "source": "Cointelegraph.com News",
-        "date": "2026-11-03T23:56:09+00:00"
+        "date": "2026-11-04T19:15:39+00:00"
       }
     ],
     "XRP": [
       {
-        "title": "Why rising XRP whale counts are a fake bullish signal",
-        "link": "https://cryptoslate.com/why-rising-xrp-whale-counts-are-a-fake-bullish-signal/",
+        "title": "Ripple-backed Evernorth faces 73.7 million-share selling overhang after brutal stock market debut",
+        "link": "https://cryptoslate.com/ripple-backed-evernorth-faces-73-7-million-share-selling-overhang-after-brutal-stock-market-debut/",
         "source": "CryptoSlate",
-        "date": "2026-11-04T13:40:13+00:00"
+        "date": "2026-11-05T08:30:13+00:00"
       },
       {
-        "title": "Coinbase XRP looked cheap on Nov. 2 despite identical market value",
-        "link": "https://cryptoslate.com/coinbase-xrp-looked-cheap-on-nov-2-despite-identical-market-value/",
-        "source": "CryptoSlate",
-        "date": "2026-11-03T23:40:07+00:00"
+        "title": "XRP Ledger fixes a disclosed bug that could have led to the creation of new tokens",
+        "link": "https://www.coindesk.com/markets/2026/11/05/xrp-ledger-closes-bug-that-let-approved-token-burners-create-new-tokens",
+        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
+        "date": "2026-11-05T05:25:06+00:00"
       }
     ]
   }

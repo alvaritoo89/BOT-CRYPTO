@@ -1,75 +1,69 @@
 {
-  "updated": "2026-11-05T15:06:35.706030+00:00",
+  "updated": "2026-11-06T14:44:36.237651+00:00",
   "prices": {
     "BTC": {
-      "usd": 77799,
-      "eur": 69370,
-      "change24h": -3.0924650666904387
+      "usd": 75688,
+      "eur": 67906,
+      "change24h": -4.170032247740472
     },
     "ETH": {
-      "usd": 2327.46,
-      "eur": 2075.29,
-      "change24h": -4.216717278527543
+      "usd": 2234.28,
+      "eur": 2004.56,
+      "change24h": -5.677942411946598
     },
     "XRP": {
-      "usd": 1.27,
-      "eur": 1.13,
-      "change24h": -4.277224122441967
+      "usd": 1.19,
+      "eur": 1.064,
+      "change24h": -8.097817992785748
     }
   },
   "news": {
     "BTC": [
       {
-        "title": "Google could take stake in bitcoin miner TeraWulf’s $19 billion AI project if Anthropic defaults",
-        "link": "https://www.coindesk.com/tech/2026/11/05/google-could-take-ownership-stake-in-bitcoin-miner-terawulf-s-ai-project-if-anthropic-defaults",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "date": "2026-11-05T13:29:40+00:00"
+        "title": "Keel (KEEL) Sells Entire Bitcoin Treasury for $192 Million, Will Sell BTC Daily",
+        "link": "https://bitcoinmagazine.com/news/keel-sells-entire-bitcoin-treasury-192m",
+        "source": "Bitcoin Magazine",
+        "date": "2026-11-05T16:45:00+00:00"
       },
       {
-        "title": "Bitcoin holds above $80,000 after Wednesday’s jump as injective rallies on staked ETF listing",
-        "link": "https://www.coindesk.com/markets/2026/11/05/bitcoin-holds-above-usd80-000-after-wednesday-s-jump-as-injective-rallies-on-staked-etf-listing",
+        "title": "Bitcoin developer proposes ‘landmines’ to make quantum thieves lose their own BTC",
+        "link": "https://www.coindesk.com/tech/2026/11/05/bitcoin-developer-proposes-landmines-to-make-quantum-thieves-lose-their-own-btc",
         "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "date": "2026-11-05T11:30:00+00:00"
+        "date": "2026-11-06T01:30:00+00:00"
       },
       {
-        "title": "Mercado Bitcoin hack continued hours after exchange said attack was contained, report finds",
-        "link": "https://www.coindesk.com/business/2026/11/05/mercado-bitcoin-hack-continued-hours-after-exchange-said-attack-was-contained-report-finds",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "date": "2026-11-05T10:44:54+00:00"
+        "title": "Bitcoin holds $75K as AI regulation fears see KOSPI halted after 8% crash",
+        "link": "https://cointelegraph.com/markets/bitcoin-holds-ai-regulation-fears-kospi-halted?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "source": "Cointelegraph.com News",
+        "date": "2026-11-06T11:16:53+00:00"
       }
     ],
     "ETH": [
       {
-        "title": "Bitcoin, Ether ETFs draw $128M as crypto rebounds after midterms",
-        "link": "https://cointelegraph.com/markets/bitcoin-ether-etfs-turn-green-post-election-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "title": "Ethereum devs won’t fork Glamsterdam on Hoodi until smart contract risks resolved",
+        "link": "https://cointelegraph.com/news/ethereum-devs-fork-glamsterdam-hoodi-smart-contract-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "source": "Cointelegraph.com News",
-        "date": "2026-11-05T08:22:30+00:00"
+        "date": "2026-11-06T13:23:08+00:00"
       },
       {
-        "title": "Bitcoin holds above $80,000 as Zcash jumps 12% in post-election crypto rebound",
-        "link": "https://www.coindesk.com/markets/2026/11/05/bitcoin-holds-above-usd80-000-as-zcash-jumps-12-in-post-election-crypto-rebound",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "date": "2026-11-05T05:13:45+00:00"
+        "title": "Bitcoin and Ethereum ETFs lose $530 million in one day as $3 trillion Wall Street wipeout rattles crypto",
+        "link": "https://cryptoslate.com/bitcoin-and-ethereum-etfs-lose-530-million-in-one-day-as-3-trillion-wall-street-wipeout-rattles-crypto/",
+        "source": "CryptoSlate",
+        "date": "2026-11-06T09:55:27+00:00"
       },
       {
-        "title": "Trump-linked tokens lead crypto losses after Democrats sweep in the US midterms",
-        "link": "https://cointelegraph.com/news/trump-linked-tokens-lead-crypto-losses-after-democrats-sweep-in-the-us-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+        "title": "Bitcoin, Ether ETFs post $530M outflows as election gains evaporate",
+        "link": "https://cointelegraph.com/markets/bitcoin-ether-etfs-lose-post-election-gains-erased?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
         "source": "Cointelegraph.com News",
-        "date": "2026-11-04T19:15:39+00:00"
+        "date": "2026-11-06T08:19:18+00:00"
       }
     ],
     "XRP": [
       {
-        "title": "Ripple-backed Evernorth faces 73.7 million-share selling overhang after brutal stock market debut",
-        "link": "https://cryptoslate.com/ripple-backed-evernorth-faces-73-7-million-share-selling-overhang-after-brutal-stock-market-debut/",
+        "title": "XRP sellers face massive slip as USD order book depth fakes size",
+        "link": "https://cryptoslate.com/xrp-sellers-face-massive-slip-as-usd-order-book-depth-fakes-size/",
         "source": "CryptoSlate",
-        "date": "2026-11-05T08:30:13+00:00"
-      },
-      {
-        "title": "XRP Ledger fixes a disclosed bug that could have led to the creation of new tokens",
-        "link": "https://www.coindesk.com/markets/2026/11/05/xrp-ledger-closes-bug-that-let-approved-token-burners-create-new-tokens",
-        "source": "CoinDesk: Bitcoin, Ethereum, Crypto News and Price Data",
-        "date": "2026-11-05T05:25:06+00:00"
+        "date": "2026-11-06T08:50:00+00:00"
       }
     ]
   }
